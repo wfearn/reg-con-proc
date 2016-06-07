@@ -1,0 +1,2599 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ CQP3GOKSq9XtWM1mQIPBY3gJm9Wu3TlqgjXuoAN+lpoIUMc+DAn1nNzB8uyj3Kdh
+ 2O6gZfISLi1JmcmlBNUaPQ==
+
+<SEC-DOCUMENT>0001012975-00-000006.txt : 20000203
+<SEC-HEADER>0001012975-00-000006.hdr.sgml : 20000203
+ACCESSION NUMBER:		0001012975-00-000006
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20000125
+ITEM INFORMATION:		
+ITEM INFORMATION:		
+FILED AS OF DATE:		20000125
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			24/7 MEDIA INC
+		CENTRAL INDEX KEY:			0001062195
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-ADVERTISING [7310]
+		IRS NUMBER:				133995672
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		
+		SEC FILE NUMBER:	000-29768
+		FILM NUMBER:		512773
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1250 BROADWAY
+		STREET 2:		27TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+		BUSINESS PHONE:		2122317100
+
+	MAIL ADDRESS:	
+		STREET 1:		1250 BROADWAY
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<TEXT>
+
+- --------------------------------------------------------------------------------
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                      ----------------------------------
+                                    FORM 8-K
+                      ----------------------------------
+
+
+                                 CURRENT REPORT
+                     PURSUANT TO SECTION 13 OR 15(D) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+
+
+
+     January 10, 2000                                           0-29768
+     --------------------------------                  ------------------------
+     Date of Report (Date of earliest                  Commission File Number
+     event reported)
+
+
+                                24/7 MEDIA, INC.
+             (Exact name of registrant as specified in its charter)
+
+
+                   Delaware                                    13-3995672
+     --------------------------------                  ------------------------
+     (State or other jurisdiction of                      (I.R.S. Employer
+     incorporation or organization                      Identification Number)
+
+
+
+
+                                 1250 Broadway
+                            New York, New York 10001
+              ----------------------------------------------------
+               (Address of Principal Executive Office (Zip Code)
+
+
+                                 (212) 231-7100
+              ----------------------------------------------------
+              (Registrant's telephone number, including area code)
+
+
+
+- --------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+[Sabela]
+
+
+<PAGE>
+
+
+
+Item 2.  Acquisition or Disposition of Assets.
+
+     On January 10, 2000, 24/7 Media,  Inc. (the "24/7 Media" or "we") announced
+     the acquisition of Sabela Media, Inc. ("Sabela"), a privately-held Delaware
+     Corporation  and a global ad serving,  tracking and  analysis  company with
+     products for online  advertisers and Web publishers,  for approximately $70
+     million. On January 10, 2000, we acquired all of the issued and outstanding
+     shares  of  capital  stock of  Sabela  in a merger  transaction  whereby  a
+     subsidiary  of 24/7 Media was merged with and into Sabela.  24/7 Media also
+     assumed  all of the  outstanding  stock  options of Sabela  under our stock
+     incentive plan.
+
+     Pursuant to the  Agreement  and Plan of Merger dated  January 9, 2000 among
+     24/7 Media,  Killer-App Holding Corp., Sabela,  Freshwater Consulting Ltd.,
+     James  Green and Galmos  Holdings,  Inc.,  (i) in  exchange  for all of the
+     outstanding  shares of  Sabela,  24/7  Media  exchanged  approximately  1.2
+     million  shares of its  common  stock,  par value $.01 per share (the "24/7
+     Common Stock"),  and paid approximately $2.5 million to the stockholders of
+     Sabela,  (ii) 24/7 Media  assumed all of the  outstanding  stock options of
+     Sabela and reserved  approximately  40,000  shares of common stock to cover
+     the  exercise  thereof,  and  (iii)  24/7  assumed  all of the  outstanding
+     warrants of Sabela and reserved  approximately 105,000 shares of its common
+     stock to cover the exercise  thereof.  In connection with the merger,  24/7
+     Media also incurred  transaction  costs of  approximately  $3 million.  For
+     accounting purposes the effective date of the merger is January 1, 2000 and
+     it will be accounted for as a purchase business combination.
+
+     The  consideration  payable  by 24/7  Media was  determined  as a result of
+     negotiation  by and between 24/7 Media and Sabela.  The number of shares of
+     24/7 Media Common  Stock  issued to the holders of Sabela  common stock was
+     determined  based on an exchange rate of 0.1104 shares of 24/7 Common Stock
+     for each share of Sabela common stock.  The number of options of 24/7 Media
+     issued to the holders of Sabela stock  options was  determined  based on an
+     exchange rate of 0.1146 24/7 stock options for each stock option of Sabela.
+     The net assets of Sabela  acquired  by 24/7 Media as a result of the merger
+     transaction consisted of equipment,  intellectual property,  other physical
+     property.  These  assets  are  used in  connection  with the  operation  of
+     Sabela's ad serving,  tracking and analysis services. 24/7 Media intends to
+     operate the business and use the assets as previously  operated and used by
+     Sabela,  provided that changing business  conditions or strategic plans may
+     lead to changes in Sabela's operations in the future.
+
+     The  Agreement  and Plan of Merger dated  January 9, 2000 by and among 24/7
+     Media,  Killer-App Holding Corp., Sabela Media, Inc., Freshwater Consulting
+     Ltd.,  James Green and Galmos  Holdings,  Inc. is filed herewith as Exhibit
+     2.1 and is incorporated herein by reference.
+
+     The press release, dated January 10, 2000 is filed herewith as Exhibit 99.1
+     and is incorporated herein by reference.
+
+
+
+
+
+
+
+
+[Sabela]
+
+
+<PAGE>
+
+
+Item 7.  Financial Statements and Exhibits
+
+         (a)   The audited  financial  statements of Sabela Media, Inc. required
+by this Form 8-K will be filed by amendment not later than March 27, 2000.
+
+         (b)   The pro forma  unaudited  financial  statements of Sabela  Media,
+Inc.  required by this Form 8-K will be filed by amendment  not later than March
+27, 2000.
+
+         (c)   Exhibits.
+
+               2.1     Agreement and  Plan  of  Merger,  dated  January 9, 2000,
+                       between  the Company,  Killer-App Holding  Corp.,  Sabela
+                       Media, Inc., Freshwater  Consulting Ltd., James Green and
+                       Galmos Holdings, Inc.
+
+               99.1    Press Release dated  January 10, 2000  regarding  Sabela
+                       Media, Inc.
+
+
+
+                                   SIGNATURES
+
+
+      Pursuant to the  requirements of the Securities  Exchange Act of 1934, the
+registrant  has duly  caused  this  report  to be  signed  on its  behalf by the
+undersigned hereunto duly authorized.
+
+
+                                24/7 MEDIA, INC.
+
+
+
+
+
+Date:  January 10, 2000              By: /s/ Mark E. Moran
+                                        ---------------------------------
+                                        Name:  Mark E. Moran
+                                        Title:  Senior Vice President and
+                                                General Counsel
+
+
+<PAGE>
+
+
+
+                                  EXHIBIT INDEX
+
+
+Exhibit Number          Description
+- --------------          -----------
+
+      2.1               Agreement  and Plan of  Merger,  dated  January 9, 2000,
+                        between the Company,  Killer-App  Holding Corp.,  Sabela
+                        Media, Inc., Freshwater Consulting Ltd., James Green and
+                        Galmos Holdings, Inc.
+
+      99.1              Press Release dated  January 10, 2000  regarding  Sabela
+                        Media, Inc.
+
+
+
+
+
+
+
+                                       4
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-2.1
+<SEQUENCE>2
+<TEXT>
+
+
+
+
+
+
+
+
+                                                                     Exhibit 2.1
+
+
+
+
+
+
+                          AGREEMENT AND PLAN OF MERGER
+
+
+                                  By and Among
+
+                                24/7 Media, Inc.,
+
+                            Killer-App Holding Corp.
+
+                               Sabela Media, Inc.
+
+                                       and
+
+        James Green, Freshwater Consulting Ltd. and Galmos Holdings Ltd.
+
+
+                           Dated as of January 9, 2000
+
+
+
+
+
+
+
+
+
+
+
+
+                                       1
+
+<PAGE>
+
+
+
+     AGREEMENT AND PLAN OF MERGER, dated as of January 9, 2000 (this
+"Agreement"), by and among 24/7 Media, Inc., a Delaware corporation ("24/7"),
+Killer-App Holding Corp., a Delaware corporation and a wholly-owned subsidiary
+of 24/7 (the "Subsidiary"), Sabela Media, Inc., a Delaware corporation (the
+"Company"), James Green ("Green"), Freshwater Consulting Ltd. ("Freshwater") and
+Galmos Holdings Ltd. ("Galmos," and Green, Freshwater and Galmos are referred to
+collectively as the "Stockholders").
+
+     WHEREAS, upon the terms and subject to the conditions of this
+Agreement and in accordance with the General Corporation Law of the State of
+Delaware ("Delaware Law"), 24/7, Subsidiary and the Company intend to enter into
+a business combination transaction;
+
+     WHEREAS, the Board of Directors of the Company (i) has determined that the
+Merger (as defined below) is fair to, and in the best interest of, the Company
+and its stockholders, and (ii) has approved this Agreement, the Merger and the
+other transactions contemplated by this Agreement;
+
+     WHEREAS, the holders of a majority of the outstanding shares of the capital
+stock of the Company have authorized, approved and adopted this Agreement, the
+Merger and the other transactions contemplated by this Agreement;
+
+     WHEREAS, the Boards of Directors of 24/7 and the Subsidiary (i) have
+determined that the Merger is fair to, and in the best interest of, 24/7, the
+Subsidiary and their stockholders, and (ii) have approved this Agreement, the
+Merger and the other transactions contemplated by this Agreement;
+
+     WHEREAS, each Stockholder is the owner of such number of shares of capital
+stock (the "Shares") of the Company as is set forth in Schedule 1 hereto (the
+"Ownership Table");
+
+     NOW, THEREFORE, in consideration of the foregoing and the mutual covenants
+and agreements herein contained, and intending to be legally bound hereby, 24/7,
+the Subsidiary and the Company hereby agree as follows:
+
+
+                                       2
+
+<PAGE>
+
+                                    ARTICLE I
+                                   THE MERGER
+
+     1.1    The Merger. At the Effective Time (as defined in Section 1.2(a))
+and subject to and upon the terms and conditions of this Agreement and the
+applicable provisions of Delaware Law, the Subsidiary shall be merged with and
+into the Company (the "Merger"), the separate corporate existence of the
+Subsidiary shall cease, and the Company shall continue as the surviving
+corporation. The Company as the surviving corporation after the Merger is
+hereinafter sometimes referred to as the "Surviving Corporation."
+
+     1.2    Effective Time; Closing.
+            -----------------------
+
+            (a)    As promptly as practicable after the Closing (as defined in
+Section 1.2(b)), the parties hereto shall cause the Merger to be consummated by
+filing a certificate of merger with the Secretary of State of the State of
+Delaware, in such form as required by, and executed in accordance with the
+relevant provisions of, Delaware Law (the "Certificate of Merger"). When used in
+this Agreement, the term "Effective Time" shall mean the date and time at which
+the Merger shall become effective under Delaware Law.
+
+            (b)    The closing of the transactions contemplated by this
+Agreement (the "Closing") shall be held at the offices of Proskauer Rose LLP,
+1585 Broadway, New York, New York 10036, on the date hereof, or at another time
+and date to be specified by the parties, which shall be no later than the second
+business day after the satisfaction or waiver, as the case may be, of the
+conditions set forth in Article VI, or at such other time, date and location as
+the parties hereto agree in writing (the "Closing Date").
+
+     1.3    Effect of the Merger. At the Effective Time, the effect of the
+Merger shall be as provided in this Agreement and the applicable provisions of
+Delaware Law. Without limiting the generality of the foregoing, and subject
+thereto, at the Effective Time all the rights, privileges, powers, franchises
+and property of the Subsidiary and the Company shall vest in the Surviving
+Corporation, and all restrictions, disabilities, duties, debts and liabilities
+of the Subsidiary and the Company shall become the restrictions, disabilities,
+duties, debts and liabilities of the Surviving Corporation.
+
+     1.4    Certificate of Incorporation; By-Laws.
+            -------------------------------------
+
+            (a)    At the Effective Time, the Certificate of Incorporation of
+the Subsidiary, as in effect immediately prior to the Effective Time, shall be
+the Certificate of Incorporation of the Surviving Corporation, and shall
+continue in full force and effect until thereafter amended; provided, however,
+that at the Effective Time Article I of the Certificate of Incorporation of the
+Surviving Corporation shall be amended to read: "The name of the corporation is
+Sabela Media, Inc."
+
+                                       3
+<PAGE>
+
+
+            (b)    At the Effective Time, the Bylaws of the Subsidiary, as in
+effect immediately prior to the Effective Time, shall be the bylaws of the
+Surviving Corporation until thereafter amended.
+
+     1.5    Directors and Officers. The directors and officers of the
+Subsidiary shall be the directors and officers of the Surviving Corporation, in
+each case until their respective successors are duly elected or appointed and
+qualified.
+
+     1.6    Effect on Capital Stock. At the Effective Time, by virtue of the
+Merger and without any action on the part of the Subsidiary, the Company or the
+holders of any of the following securities:
+
+            (a)    Conversion of Company Common Stock. Each share of common
+stock, par value $0.001 per share, of the Company ("Company Common Stock")
+issued and outstanding immediately prior to the Effective Time, other than any
+shares of Company Common Stock to be canceled pursuant to Section 1.6(c), will
+be canceled and extinguished and automatically converted (subject to Sections
+1.6(e) and (f)) into the right to receive (the "Exchange Ratio") (i) 0.1104 of a
+share of validly issued, fully paid and nonassessable common stock, par value
+$0.01 per share, of 24/7 (the "24/7 Common Stock"), and (ii) U.S. $0.2051, upon
+surrender of the certificates representing such shares of Company Common Stock.
+
+            (b)    (i)    The Company's obligations with respect to each
+outstanding option, as set forth on Schedule 1.6(b) hereto (the "Assumed
+Options") other than those options designated on such schedule as "non-assumed
+options" (the "Non-assumed Options"), to purchase shares of common stock of the
+Company issued pursuant to the Company's 1999 Stock Option/Stock Issuance Plan
+(the "Company Option Plan"), whether vested or unvested, shall, by virtue of
+this Agreement and without any further action of the Company, 24/7 or the holder
+of any Assumed Option, be assumed by 24/7 under its 1998 Stock Incentive Plan.
+Unless otherwise elected by 24/7 prior to the Effective Time, 24/7 shall make
+such assumption in such manner that (i) 24/7 is a corporation "assuming a stock
+option in a transaction to which Section 424(a) applies" within the meaning of
+Section 424 of the Code or (ii) to the extent that Section 424 of the Code does
+not apply to such Assumed Option, 24/7 would be such a corporation were Section
+424 of the Code applicable to such Assumed Option; and, if not so otherwise
+elected, after the Effective Time, all references to the Company Option Plan
+shall be deemed to refer to 24/7's 1998 Stock Incentive Plan as of the Effective
+Time by virtue of this Agreement and without any further action. In connection
+therewith, the Company shall, and hereby does, assign to 24/7 effective at the
+Closing any and all "repurchase rights" of the Company with respect to the
+Assumed Options and Option Shares. "Option Shares" means shares of Company
+Common Stock purchased upon exercise of options under the Company Option Plan
+prior to vesting of such options.
+
+                   (ii)   Each Assumed Option so assumed by 24/7 under this
+Agreement shall continue to have, and be subject to, similar terms and
+conditions set forth in the Company Option Plan as in effect immediately prior
+to the Effective Time, except that (i) such
+
+
+                                       4
+<PAGE>
+
+
+
+
+Assumed Option shall be governed by 24/7's 1998 Stock Incentive Plan, (ii) such
+Assumed Option will be exercisable for that number of shares of 24/7 Common
+Stock equal to the product of the number of shares of common stock of the
+Company that were purchasable under such Assumed Option immediately prior to the
+Effective Time multiplied by 0.1146 (the "Option Ratio"), rounded to the nearest
+whole number of shares of 24/7 Common Stock, and (iii) the per share exercise
+price for the shares of 24/7 Common Stock issuable upon exercise of such Assumed
+Option will be equal to the exercise price per share of common stock of the
+Company at which such Assumed Option was exercisable immediately prior to the
+Effective Time divided by the Option Ratio, and rounding the resulting exercise
+price up to the nearest whole cent.
+
+                   (iii)  As soon as reasonably practicable after the Effective
+Time, the Company will deliver to Assumed Option holders appropriate notices
+setting forth such holders' rights pursuant to 24/7's 1998 Stock Incentive Plan
+and confirming that the Assumed Options have been assumed by 24/7 under its 1998
+Stock Incentive Plan in accordance with the terms and conditions required by
+this Section 1.6(b).
+
+                   (iv)   24/7 shall not assume any obligations of the Company
+with respect to the Non-assumed Options. Each holder of Non-assumed Options
+shall be given the opportunity to exercise such Non-assumed Option effective
+immediately prior to the Effective Time.
+
+            (c)    Cancellation of Company-Owned Stock. Each share of Company
+Common Stock held by the Company immediately prior to the Effective Time shall
+be canceled and extinguished without any conversion thereof.
+
+            (d)    Capital Stock of the Subsidiary. Each share of common stock,
+par value $0.01 per share, of the Subsidiary issued and outstanding immediately
+prior to the Effective Time shall be exchanged for and converted into one
+validly issued, fully paid and non-assessable share of common stock, par value
+$0.01 per share, of the Surviving Corporation. Each stock certificate of the
+Subsidiary evidencing ownership of any such shares shall evidence ownership of
+such shares of capital stock of the Surviving Corporation.
+
+            (e)    Fractional Shares.  No fraction of a share of 24/7 Common
+Stock shall be issued by virtue of the Merger, but in lieu thereof each holder
+of a share of Company Common Stock who would otherwise be entitled to a fraction
+of a share of 24/7 Common Stock (after aggregating all fractional shares of 24/7
+Common Stock that otherwise would be received by such holder) shall receive from
+24/7 an amount of cash (rounded to the nearest whole cent) equal to the product
+of (i) such fraction, multiplied by (ii) the average closing price of one share
+of 24/7 Common Stock for the ten (10) most recent days that 24/7 Common Stock
+has traded ending on the trading day immediately prior to the Effective Time, as
+reported on the Nasdaq National Market System ("Nasdaq").
+
+            (f)    Adjustments to Exchange Ratio.  The Exchange Ratio shall be
+adjusted to reflect fully the appropriate effect of any stock split, reverse
+stock split, stock
+
+                                       5
+<PAGE>
+
+
+dividend (including any dividend or distribution of securities convertible into
+24/7 Common Stock), reorganization, recapitalization, reclassification or other
+like change with respect to 24/7 Common Stock occurring on or after the date
+hereof and prior to the Effective Time.
+
+            (g)    All Other Capital Stock of the Company.  All other capital
+stock of the Company shall be canceled and retired and shall cease to exist, and
+no consideration shall be issued or delivered in exchange therefor.
+
+     1.7    Surrender and Payment.
+            ---------------------
+
+            (a)    The Merger Consideration delivered upon the surrender for
+exchange of the shares of Company Common Stock in accordance with the terms
+hereof shall be deemed to have been issued in full satisfaction of all rights
+pertaining to such shares, and after the Effective Time, there shall be no
+further registration or transfers of shares of Company Common Stock outstanding
+prior to the Closing Date. If after the Effective Time certificates which
+immediately prior to the Effective Time represented outstanding shares of
+Company Common Stock (the "Certificates") are presented to the Surviving
+Corporation for any reason, they shall be canceled and exchanged as provided in
+this Article I.
+
+            (b)    If certificates for shares of 24/7 Common Stock are to be
+issued in the name of a person other than the person in whose name the
+surrendered Certificate is registered, it shall be a condition of the issuance
+thereof that the Certificates so surrendered shall be properly endorsed or shall
+be otherwise in proper form for transfer and that the person requesting such
+exchange shall have paid to 24/7 or any agent designated by it any transfer or
+other taxes required by reason of the issuance of certificates for shares of
+24/7 Common Stock in the name of a person other than the registered holder of
+the Certificate surrendered or shall have established to the satisfaction of
+24/7 or any agent designated by it that such tax either has been paid or is not
+applicable.
+
+     1.8    Escrow Indemnity Account. Promptly after the Closing Date, 24/7
+shall deliver to the escrow agent (the "Escrow Agent") under the escrow
+agreement dated the Closing Date, substantially in the form of Exhibit A hereto
+(the "Escrow Indemnity Agreement"), a certificate representing 312,588 shares of
+24/7 Common Stock otherwise deliverable to the Stockholders, to be held pursuant
+to the provisions of the Escrow Indemnity Agreement to be held in an escrow
+account (the "Escrow Indemnity Account") pursuant to the terms of the Escrow
+Indemnity Agreement.
+
+     1.9    Dissenters' Rights. The holders of shares of Company Common Stock as
+to which dissenters' rights shall have been duly demanded under applicable law
+("Dissenting Shares"), if any, shall be entitled to payment by the Surviving
+Corporation only of the fair value of such shares plus accrued interest to the
+extent permitted by and in accordance with the provisions of applicable law;
+provided, however, that (i) if any holder of the Dissenting Shares shall, under
+the circumstances permitted by applicable law, subsequently deliver a written
+withdrawal of such holder's demand or (ii) if any holder fails to establish such
+holder's
+
+                                       6
+
+<PAGE>
+
+
+entitlement to rights to payment as provided under applicable law, such holder
+or holders (as the case may be) shall forfeit such right to payment for such
+shares and such shares shall thereupon be deemed to have been converted into
+24/7 Common Stock as of the Effective Time.
+
+     1.10   Lost, Stolen or Destroyed Certificates. If any Certificates shall
+have been lost, stolen or destroyed, 24/7 shall issue in exchange for such lost,
+stolen or destroyed Certificates, upon the making of an affidavit of that fact
+by the holder thereof, the Merger Consideration; provided, however, that 24/7
+may, in its discretion and as a condition precedent to the issuance and delivery
+thereof, require the owner of such lost, stolen or destroyed Certificates to
+deliver a bond in such sum as it may reasonably direct as indemnity against any
+claim that may be made against 24/7 or the Company with respect to the
+Certificates alleged to have been lost, stolen or destroyed.
+
+     1.11   Taking of Necessary Action; Further Action. If, at any time after
+the Effective Time, any such further action is necessary or desirable to carry
+out the purposes of this Agreement and to vest the Surviving Corporation with
+full right, title and possession to all assets, property, rights, privileges,
+powers and franchises of the Company and the Subsidiary, the officers and
+directors of the Company and the Subsidiary are fully authorized in the name of
+their respective corporations or otherwise to take, and will take, all such
+lawful and necessary action. 24/7 shall cause the Subsidiary to perform all of
+its obligations relating to this Agreement and the transactions contemplated
+hereby.
+
+
+                                   ARTICLE II
+                  REPRESENTATIONS AND WARRANTIES OF THE COMPANY
+
+     Except as disclosed in that section of the document of even date herewith
+delivered by the Company to 24/7 prior to the execution and delivery of this
+Agreement (the "Company Disclosure Schedule") corresponding to the section of
+this Agreement to which any of the representations and warranties specifically
+relate or as disclosed in another section of the Company Disclosure Schedule if
+it is reasonably apparent on the face of the disclosure that it is applicable to
+another section of this Agreement, the Company and the Stockholder represent and
+warrant to 24/7 as follows:
+
+     2.1    Organization and Qualification; Subsidiaries. The Company and each
+of its subsidiaries is a corporation or other legal entity duly organized,
+validly existing and in good standing under the laws of the jurisdiction of its
+incorporation and has the requisite power and authority to own, lease and
+operate the properties it purports to own, operate or lease and to carry on its
+business as it is now being conducted and as currently proposed to be conducted,
+except where the failure to be so organized, existing and in good standing or to
+have such power and authority would not reasonably be expected to have a
+material adverse effect on the business, results of operations or financial
+condition of the Company, taken as a whole, or on the ability of the parties to
+consummate the transactions contemplated by this Agreement ("Company Material
+Adverse Effect"). The Company and each of its subsidiaries is duly qualified or
+licensed
+
+
+                                       7
+<PAGE>
+
+
+as a foreign corporation or other legal entity to do business, and is in good
+standing, in each jurisdiction where the character of its properties owned,
+leased or operated by it or the nature of its activities makes such
+qualification or licensing necessary, except for such failures to be so duly
+qualified or licensed and in good standing that would not reasonably be expected
+to have a Company Material Adverse Effect. A true and complete list of all of
+the Company's subsidiaries, together with the jurisdiction of incorporation of
+each subsidiary and the percentage of each subsidiary's outstanding capital
+stock owned by the Company or another subsidiary, is set forth in Section 2.1 of
+the Company Disclosure Schedule. Except as set forth in Section 2.1 of the
+Company Disclosure Schedule, the Company does not, directly or indirectly, own
+any equity or similar interest in, or any interest convertible into or
+exchangeable or exercisable for, any equity or similar interest in, any
+corporation, partnership, joint venture or other business association or entity.
+
+     2.2    Certificate of Incorporation and By-Laws. The Company has heretofore
+furnished to 24/7 a complete and correct copy of its Certificate of
+Incorporation (certified by the Secretary of State of the State of Delaware) and
+By-Laws, as amended to date, and a complete and correct copy of the equivalent
+organizational documents of each of its subsidiaries. Such Certificate of
+Incorporation, By-Laws and equivalent organizational documents of the Company
+and each of its subsidiaries are in full force and effect. Neither the Company
+nor any of its subsidiaries is in violation of any of the provisions of its
+respective Certificate of Incorporation or By-Laws or equivalent organizational
+documents.
+
+     2.3    Company Capital Structure.
+            -------------------------
+
+            (a)    The authorized capital stock of the Company consists of
+96,000,000 shares of Company Common Stock, of which there were 10,335,233 shares
+issued and outstanding as of date hereof. All of the outstanding shares of
+Company Common Stock and preferred stock and all of the outstanding shares of
+capital stock of each of the Company's subsidiaries are duly authorized, validly
+issued, fully paid and nonassessable and are not subject to preemptive or
+similar rights created by statue, the Certificate of Incorporation or Bylaws of
+the Company or any of its subsidiaries or any agreement or document to which the
+Company or any subsidiary is a party or by which any of them is bound. As of the
+date of this Agreement there were no shares of Company Common Stock held in
+treasury by the Company.
+
+            (b)    Immediately prior to the execution of this Agreement
+1,329,910 shares of Company Common Stock are issuable pursuant to outstanding
+options (whether or not currently exercisable) to purchase Company Common Stock
+granted under the Company stock option plans for an aggregate exercise price of
+$1,329,901, all of which shares of Company Common Stock were reserved for
+issuance pursuant to the Company Option Plan.
+
+            (c)    As of the date of this Agreement 952,414 shares of Company
+Common Stock are issuable pursuant to outstanding warrants (whether or not
+currently exercisable) to purchase Company Common Stock for an aggregate
+exercise price of $1,047,655.
+
+                                       8
+
+<PAGE>
+
+
+     2.4    Obligations with Respect to Capital Stock. Except as set forth in
+Section 2.3 of this Agreement, there are no equity securities, partnership
+interests or similar ownership interests of any class of any Company equity
+security, or any securities exchangeable or convertible into or exercisable for
+such equity securities, partnership interests or similar ownership interests,
+issued, reserved for issuance or outstanding. Except for securities which the
+Company owns free and clear of all claims and Encumbrances (as defined below),
+directly or indirectly through one or more subsidiaries, there are no equity
+securities, partnership interests or similar ownership interests of any class of
+equity security of any subsidiary of the Company, or any security exchangeable
+or convertible into or exercisable for such equity securities, partnership
+interests or similar ownership interests, issued, reserved for issuance or
+outstanding. For the purposes of this Agreement "Encumbrances" means any lien,
+pledge, hypothecation, charge, mortgage, security interest, encumbrance, claim,
+infringement, interference, option, right of first refusal, preemptive right,
+community property interest or restriction of any nature (including any
+restriction on the voting of any security, any restriction on the transfer of
+any security or other asset, any restriction on the receipt of any income
+derived from any asset, any restriction on the use of any asset and any
+restriction on the possession, exercise or transfer of any other attribute of
+ownership of any asset) but does not include liens imposed by law in respect of
+obligations not yet due which are owed in respect of taxes or which otherwise
+are owed to carriers, warehousepersons or laborers. Except as set forth in
+Section 2.3 of this Agreement, there are no subscriptions, options, warrants,
+equity securities, partnership interests or similar ownership interests, calls,
+rights (including preemptive rights), commitments or agreements of any character
+(contingent or otherwise) to which the Company or any of its subsidiaries is a
+party or by which any of them is bound obligating the Company or any of its
+subsidiaries to (i) issue, deliver or sell, or cause to be issued, delivered or
+sold, or repurchase, redeem or otherwise acquire, or cause the repurchase,
+redemption or acquisition of, any shares of capital stock, partnership interests
+or similar ownership interests of the Company or any of its subsidiaries; (ii)
+grant, extend, accelerate the vesting of or enter into any such subscription,
+option, warrant, equity security, call, right, commitment or agreement; or (iii)
+provide funds to or make any investment (in the form of a loan, capital
+contribution or otherwise) in any subsidiary or any other entity other than
+guarantees of bank obligations of subsidiaries entered in the ordinary course of
+business. As of the date of this Agreement, there is no voting trust, proxy or
+other agreement or understanding to which the Company is a party or by which it
+is bound with respect to any equity security of any class of the Company or with
+respect to any equity security, partnership interest or similar ownership
+interest of any class of any of its subsidiaries.
+
+     2.5    Authority Relative to this Agreement; Ownership.
+            -----------------------------------------------
+
+            (a)    The Company has all requisite power and authority to execute
+and deliver this Agreement and to perform its obligations hereunder and to
+consummate the transactions contemplated hereby, as well as all other
+agreements, certificates and documents executed or delivered, or to be executed
+or delivered, by the Company in connection herewith (collectively, with this
+Agreement, the "Company Documents"). The execution and delivery of this
+Agreement by the Company and the consummation by the Company of the transactions
+contemplated hereby have been duly and validly authorized by all necessary
+action on the part of
+
+
+
+                                       9
+
+<PAGE>
+
+
+the Company, and no other proceedings are necessary to authorize this Agreement
+or to consummate the transactions contemplated hereby, except for the filing of
+the Certificate of Merger pursuant to Delaware Law. Each of the Company
+Documents to which the Company is, or will be, a party has been, or will be,
+duly and validly executed and delivered by the Company, and, assuming the due
+authorization, execution and delivery of the Company Documents by 24/7 and/or
+the Subsidiary, as applicable, are (or when executed and delivered will be)
+legal, valid and binding obligations of the Company, enforceable against the
+Company in accordance with their respective terms, except as limited by (i)
+applicable bankruptcy, insolvency, reorganization, moratorium and other laws of
+general application affecting the enforcement of creditors' rights generally and
+(ii) general principles of equity, regardless of whether asserted in a
+proceeding in equity or at law.
+
+            (b)    The Board of Directors of the Company (including any required
+committee or subgroup of the Board of Directors of the Company) at a meeting
+duly called at which all members were present has (a) unanimously declared that
+this Agreement, the Merger and the other transactions contemplated hereby are
+fair to, and in the best interests of, the Company and its stockholders; (B)
+authorized, approved and adopted this Agreement, the Merger and the other
+transactions contemplated hereby; and (C) as of the date hereof, determined to
+recommend that the stockholders of the Company approve and adopt this Agreement
+and approve the Merger. None of the aforesaid actions by the Board of Directors
+of the Company has been amended, rescinded or modified.
+
+            (c)    The holders of at least a majority of the outstanding shares
+of the Company Common Stock have authorized, approved and adopted this
+Agreement, the Merger and the other transactions contemplated hereby and have
+authorized the taking of all appropriate action pursuant to Delaware Law to
+cause the Merger to be effective at the Effective Time. No other vote of the
+holders of any class or series of the Company's capital stock is necessary to
+authorize, approve and adopt this Agreement and the Merger.
+
+            (d)    Each Stockholder is, and immediately prior to the Closing
+will be, the record and beneficial owner of the number and class(es) of Shares
+set forth next to such Stockholder's name on the Ownership Table, free and clear
+of any and all liens, pledges, security interests, options, encumbrances,
+charges, agreements or claims of any kind whatsoever. On the Closing Date, each
+Stockholder will have the full right, power and authority to assign, transfer
+and deliver such Stockholder's Shares as provided in this Agreement, and such
+delivery will convey to 24/7 lawful, valid and marketable title to such Shares,
+free and clear of any and all liens, pledges, security interests, options,
+encumbrances, charges, agreements or claims of any kind whatsoever.
+
+
+                                       10
+<PAGE>
+
+
+     2.6    No Conflicts, Required Filings and Consents.
+            -------------------------------------------
+
+            (a)    The execution and delivery of this Agreement by the Company
+do not, and the performance of this Agreement by the Company will not, (i)
+conflict with or violate the Certificate of Incorporation or By-Laws of the
+Company or equivalent organizational documents of any of its subsidiaries; (ii)
+subject to compliance with the requirements set forth in Section 2.6(b) below,
+conflict with or violate any law, rule, regulation, order, judgment or decree
+applicable to the Company or any of its subsidiaries or by which the Company or
+its subsidiaries or any of their respective properties is bound or affected; or
+(iii) except as set forth in Section 2.6 of the Company Disclosure Schedule,
+result in any breach of or constitute a default (or an event which with notice
+or lapse of time or both would become a default) under, or impair the Company's
+rights or alter the rights or obligations of any third party under, or give to
+others any rights of termination, amendment, acceleration or cancellation of, or
+result in the creation of an Encumbrance on any of the properties or assets of
+the Company or any of its subsidiaries pursuant to, any note, bond, mortgage,
+indenture, contract, agreement, lease, license, permit, franchise or other
+instrument or obligation to which the Company or any of the subsidiaries is a
+party or by which the Company or any of its subsidiaries or any of their
+respective properties is bound or affected, except, in the case of clauses (ii)
+and (iii), for such breaches, violations or defaults that would not have a
+Company Material Adverse Effect.
+
+            (b)    The execution and delivery of this Agreement by the Company
+does not, and the performance of this Agreement by the Company will not, require
+any consent, approval, authorization or permit of, or declaration, registration
+or filing with or notification to, any court, administrative agency or
+commission or other governmental authority or instrumentality, foreign or
+domestic (a "Governmental Entity") except (i) such consents, approvals, orders,
+authorizations, registrations and declarations and filings as may be required
+under applicable federal and state securities (or related) laws, and (ii) such
+consents, approvals, authorizations, filings and registrations which if not
+obtained or made, would not prevent or delay consummation of the Merger or
+otherwise prevent the Company from performing its obligations under this
+Agreement.
+
+     2.7    Financial Statements. The Company has delivered to 24/7 a
+consolidated balance sheet as at June 30, 1999, and as at each month-end
+thereafter through December 31, 1999, and consolidated statements of income and
+cash flow for the period from inception through June 30, 1999 and for each month
+thereafter through December 31, 1999 (the "Company Financial Statements"). The
+Company Financial Statements are in accordance with the books and records of the
+Company, and reflect accurately in all material respects the financial position,
+results of operations and changes in financial position of the Company as at the
+dates and for the periods indicated. The Company maintains and will continue to
+maintain an adequate system of internal financial and accounting controls. The
+accounts receivable of the Company (i) arose in the ordinary course of business
+for goods or services delivered or rendered, (ii) constitute only valid,
+undisputed claims and are not subject to counterclaims or setoffs, (iii) except
+as is disclosed in Section 2.7 of the Company Disclosure Schedule, are good and
+collectible in full
+
+
+
+                                       11
+
+<PAGE>
+
+
+within 90 days of the date they were created at the aggregate recorded amounts
+thereof net of the reserve therefor and (iv) have not been extended or rolled
+over in order to make them current.
+
+     2.8    No Undisclosed Liabilities. Except as is disclosed in Section 2.8 of
+the Company Disclosure Schedule, neither the Company nor any of its subsidiaries
+has any liabilities (absolute, accrued, contingent or otherwise) of the type
+that are required to be disclosed in financial statements, including the notes
+thereto, prepared in accordance with GAAP which are, individually or in the
+aggregate, material to the business, operations or financial condition of the
+Company and its subsidiaries taken as a whole, except liabilities (i) adequately
+provided for or referred to in the Company's balance sheet and the related notes
+thereto as of June 30, 1999 included in the Company Financial Statements (the
+"Company Balance Sheet"), (ii) incurred since the date of the Company Balance
+Sheet in the ordinary course of business and consistent with past practice and
+(iii) incurred in connection with the transactions contemplated by this
+Agreement. The Company does not know of any basis for the assertion against the
+Company of any other liability or loss contingency for which a reserve is
+required to be disclosed in the Company Financial Statements or the notes
+thereto, in accordance with GAAP.
+
+     2.9    Absence of Certain Changes or Events. Except as se forth in Section
+2.9 of the Company Disclosure Schedule, since June 30, 1999, the Company has
+conducted its business in the ordinary course and there has not occurred: (i)
+any Company Material Adverse Effect, (ii) any declaration, setting aside or
+payment of any dividend on, or other distribution (whether in cash, stock or
+property) in respect of any of the Company's capital stock, or any purchase,
+redemption or other acquisition by the Company of any of its capital stock or
+any other securities of the Company, (iii) any split, combination or
+reclassification of any of the Company's capital stock, (iv) any amendments or
+changes in the Certificate of Incorporation or By-Laws of the Company or any of
+its subsidiaries; (v) any change by the Company in its accounting methods,
+principles or practices except as required by GAAP; (vi) any revaluation by the
+Company of any of its assets, including, without limitation, writing down the
+value of capitalized software or inventory or writing off notes or accounts
+receivable other than in the ordinary course of business; or (vii) any sale or
+transfer of a material amount of assets of the Company or any subsidiary.
+
+     2.10   Absence of Litigation. Section 2.10 of the Company Disclosure
+Schedule contains a complete and correct list of all actions, suits,
+proceedings, claims or investigations pending or, to the knowledge of the
+Company, threatened against the Company, any of its subsidiaries or any of their
+respective assets or, in connection with the Company's business, any of the
+Company's or its subsidiaries' officers, directors or employees before any
+Governmental Entity. Except as set forth in Section 2.10 of the Company
+Disclosure Schedule, neither the Company nor, in connection with the Company's
+business, any of the Company's or its subsidiaries' officers, directors or
+employees is subject or party to any judgment, order, decree or other direction
+of, or stipulation with, any Governmental Entity. As of the date hereof, there
+are no actions, suits or proceedings pending or, to the knowledge of the
+Company, threatened against the Company or any of the stockholders that seek to
+prevent or challenge, or seek damages in
+
+
+                                       12
+<PAGE>
+
+
+connection with, the transactions contemplated by any of the Company Documents
+or otherwise arising out of or in any way related to any of the Company
+Documents.
+
+     2.11   Employee Benefit Plans.
+            ----------------------
+
+(a) Neither the Company nor any entity that would be deemed a "single employer"
+with the Company under Section 414(b), (c), (m) or (o) of the Internal Revenue
+Code (the "Code") or Section 4001 of the Employee Retirement Income Security Act
+of 1974, as amended ("ERISA") (an "ERISA Affiliate"), maintains, sponsors,
+contributes to, or has or has had an obligation to, or otherwise participated in
+or participates in, or in any way, directly or indirectly, has or has had any
+liability with respect to, any "employee benefit plan," as defined in Section
+3(3) of ERISA, or any other bonus, profit sharing, pension, deferred
+compensation, incentive, stock option, fringe benefit, health, welfare, change
+in control, severance or other similar plan, policy, or arrangement, whether
+written or unwritten, insured or self-insured (each, a "Plan"). None of the
+Company, any ERISA Affiliate or any of their respective predecessors has ever
+contributed to, contributes to, has ever been required to contribute to, or
+otherwise participated in or participates in, or in any way, directly or
+indirectly, has any liability with respect to, any plan subject to Section 412
+of the Code, Section 302 of ERISA or Title IV of ERISA, including, without
+limitation, any "multiemployer plan" (within the meaning of Sections (3)(37) or
+4001(a)(3) of ERISA or Section 414(f) of the Code) or any single employer
+pension plan (within the meaning of Section 4001(a)(15) of ERISA). The
+consummation of the transactions contemplated by this Agreement will not give
+rise to any liability of the Company for severance pay or termination pay or
+accelerate the time of payment or vesting or increase the amount of compensation
+or benefits due to any employee, director, stockholder or beneficiary of the
+Company (whether current, former or restricted) or their beneficiaries solely by
+reason of such transactions or by reason of a termination of employment
+following such transactions. Section 2.11(a) of the Company Disclosure Schedule
+contains a list of all Plans. A copy of each such Plan has previously been
+delivered by the Company to 24/7.
+
+            (b)    With respect to each of the Plans listed in Section 2.11(a)
+of the Company Disclosure Schedule:
+
+                   (i)    each Plan (or, if applicable, the underlying prototype
+plan document) intended to qualify under Section 401(a) of the Code has received
+a determination letter from the Internal Revenue Service ("IRS") to the effect
+that the Plan is qualified under Section 401 of the Code, any trust maintained
+pursuant thereto is exempt from federal income taxation under Section 501 of the
+Code and to the knowledge of the Company, nothing has occurred or is expected to
+occur through the Closing Date that caused or could cause the loss of such
+qualification or exemption or the imposition of any penalty or tax liability;
+
+                   (ii)   all payments required by any Plan or by law
+(including, without limitation, all contributions, insurance premiums or
+intercompany charges) with respect to all periods through the Closing Date shall
+have been made prior to the Closing (on a pro rata basis where such payments are
+otherwise discretionary at year end) or provided for by the Company,
+
+
+
+                                       13
+<PAGE>
+
+
+as applicable, by full accruals as if all targets required by such Plan had been
+or will be met at maximum levels on its financial statements;
+
+                   (iii)  no claim, lawsuit, arbitration or other action has
+been asserted or instituted, or to the knowledge of the Company, threatened or
+anticipated against the Plans (other than non-material routine claims for
+benefits and appeals of such claims), any trustee or fiduciaries thereof, the
+Company, any ERISA Affiliate, any director, officer or employee thereof, or any
+of the assets of any trust of the Plans;
+
+                   (iv)   each Plan complies in all material respects and has
+been maintained and administered at all times in all material respects in
+accordance with its terms and all applicable laws, rules and regulations,
+including, without limitation, ERISA and the Code;
+
+                   (v)    to the knowledge of the Company, no "prohibited
+transaction," within the meaning of Section 4975 of the Code and Section 406 of
+ERISA, has occurred or is expected to occur with respect to each Plan for which
+no exemption exists under Section 408 of ERISA or Section 4975 of the Code (and
+the consummation of the transactions contemplated by this Agreement will not
+constitute or directly or indirectly result in such a "prohibited transaction");
+and
+
+                   (vi)   no Plan is  under audit or to the knowledge of the
+Company, investigation by the IRS, Department of Labor or any other governmental
+authority and no such completed audit, if any, has resulted in the imposition of
+any material tax or penalty.
+
+            (c)    Neither the Company nor any ERISA Affiliate maintains,
+contributes to or in any way provides for any benefits of any kind whatsoever
+(other than under Section 4980B of the Code, the Federal Social Security Act or
+a plan qualified under Section 401(a) of the Code) to any current or future
+retiree or terminee. Neither the Company nor any ERISA Affiliate has any
+unfunded liabilities pursuant to any Plan that is not intended to be qualified
+under Section 401(a) of the Code.
+
+     2.12   Labor Matters. Section 2.12 of the Company Disclosure Schedule
+contains a list of the names, office locations, compensation and years of
+credited service for severance, vacation and pension plan purposes of all full-
+and part-time employees of the Company as at December 31, 1999. The Company is
+not a party to a collective bargaining agreement and does not know of any
+efforts within the last three years to attempt to organize the Company's
+employees, and no strike or labor dispute involving the Company has occurred
+during the last three years or, to the knowledge of the Company, is threatened.
+To the knowledge of the Company, no key employee of the Company has indicated
+that he is considering terminating his employment. The Company has complied with
+all material applicable wage and hour, equal employment, safety and other legal
+requirements relating to its employees.
+
+     2.13   Taxes. Except as disclosed in Section 2.13 of the Company Disclosure
+Schedule, (A) the Company has timely and properly filed all federal, foreign,
+state, local and
+
+
+                                       14
+<PAGE>
+
+
+other tax returns and reports which are required to be filed by it; (B) all such
+tax returns were true, correct and complete in all material respects, and all
+taxes, interest and penalties due and payable as shown on such returns or
+claimed to be due by any taxing authority have been timely paid; (C) all unpaid
+federal, foreign, state, local and other taxes, fees, assessments, duties and
+other similar governmental charges payable by the Company or which will, with
+the passage of time, become payable by the Company (including interest and
+penalties), whether or not disputed, with respect to any period or a portion
+thereof ending at, on or prior to and including September 30, 1999, have been
+adequately reserved against in accordance with GAAP on the face of the Company
+Balance Sheet; (D) there are no outstanding waivers or extensions of time with
+respect to the assessment or audit of any tax or tax return of the Company or
+audits, examinations or claims now pending or matters under discussion with any
+taxing authority in respect of any tax of the Company; (E) the Company has not
+at any time consented to have the provisions of Section 341(f)(2) of the Code
+apply to it; (F) all taxes to be collected or withheld by the Company have been
+duly collected or withheld and any such amounts that were required to be
+remitted to any taxing authority have been duly remitted; (G) there are no tax
+rulings, requests for rulings, closing agreements or changes of accounting
+method relating to the Company that could affect its tax liability for any
+period after the Effective Time. The Company has not used any of the following
+methods of accounting: installment, completed contract, or long-term contract.
+For purposes of this Agreement, "tax" or "taxes" means taxes of any kind, levies
+or other like assessments, customs, duties, imposts, charges and including,
+without limitation, income, gross receipts, ad valorem, value added, excise,
+real and personal property, asset, sales, use, license, payroll, transaction,
+capital, net worth and franchise taxes, estimated taxes, withholding,
+employment, social security, workers compensation, occupation and other
+governmental taxes imposed or payable to the United States, or any state, local
+or foreign government or subdivision or agency thereof, and in each instance
+such term shall include any interest, penalties or additions to tax attributable
+to any such tax.
+
+     2.14   Intellectual Property.  For the purposes of this Agreement, the
+following terms have the following definitions:
+
+            "Intellectual Property" shall mean any or all of the following and
+all rights in, arising out of, or associated therewith: (i) all United States,
+international and foreign patents and applications therefor and all reissues,
+divisions, renewals, extensions, provisionals, continuations and
+continuations-in-part thereof; (ii) all inventions (whether patentable or not),
+invention disclosures, improvements, trade secrets, proprietary information,
+know how, technology, technical data and customer lists, and all documentation
+relating to any of the foregoing; (iii) all copyrights, copyright registrations
+and applications therefor, and all other rights corresponding thereto throughout
+the world; (iv) all industrial designs and any registrations and applications
+therefor throughout the world; (v) all trade names, logos, URLs, common law
+trademarks and service marks, trademark and service mark registrations and
+applications therefor throughout the world (collectively, the "Trademarks");
+(vi) all databases and data collections and all rights therein throughout the
+world; (vii) all moral and economic rights of authors and inventors, however
+denominated, throughout the world, and (viii) any similar or equivalent rights
+to any of the foregoing anywhere in the world.
+
+                                       15
+
+<PAGE>
+
+
+            "Company Intellectual Property" shall mean any Intellectual
+Property, including, without limitation, all Registered Intellectual Property,
+that is owned by, or exclusively licensed to, the Company.
+
+            "Registered Intellectual Property" means all United States,
+international and foreign: (i) patents and patent applications (including
+provisional applications); (ii) registered trademarks, applications to register
+trademarks, intent-to-use applications, or other registrations or applications
+related to trademarks; (iii) registered copyrights and applications for
+copyright registration; and (iv) any other Intellectual Property that is the
+subject of an application, certificate, filing, registration or other document
+issued, filed with, or recorded by any state, government or other public legal
+authority.
+
+            "Company Registered Intellectual Property" means all of the
+Registered Intellectual Property owned by, or filed in the name of, the Company.
+
+            (a)    A list and brief description of the Company Registered
+Intellectual Property, and all contracts, licenses and agreements to which the
+Company is a party (i) with respect to Company Intellectual Property licensed or
+transferred to any third party; or (ii) pursuant to which a third party has
+licensed or transferred any Intellectual Property to the Company is set forth in
+Section 2.14(a) of the Company Disclosure Schedule.
+
+            (b)    No Company Intellectual Property owned or developed by the
+Company or product or service of the Company is subject to any proceeding or
+outstanding decree, order, judgment, agreement, or stipulation of any
+Governmental Entity restricting in any manner the use, transfer, or licensing
+thereof by the Company, or which may affect the validity, use or enforceability
+of such Company Intellectual Property.
+
+            (c)    Each item of Company Registered Intellectual Property is
+valid and subsisting, all necessary registration, maintenance and renewal fees
+currently due in connection with such Registered Intellectual Property have been
+made and all necessary documents, recordations and certificates in connection
+with such Company Registered Intellectual Property have been filed with the
+relevant patent, copyright, trademark or other authorities in the United States
+or foreign jurisdictions, as the case may be, for the purposes of maintaining
+such Registered Intellectual Property.
+
+            (d)    The Company owns and has good and exclusive title to, or has
+joint ownership or license (sufficient for the conduct of its business as
+currently conducted) to, each item of Company Intellectual Property free and
+clear of any Encumbrance (excluding licenses and related restrictions); and the
+Company is the exclusive owner of all Trademarks currently used in connection
+with the operation or conduct of the business of the Company, including the sale
+of any products or the provision of any services by the Company.
+
+
+                                       16
+
+<PAGE>
+
+
+            (e)    The Company owns, and has good title to, or has valid and
+sufficient licenses for all copyrightable works currently used in its business.
+
+            (f)    Except as set forth in Section 2.14(f) of the Company
+Disclosure Schedule, to the extent that any Intellectual Property currently used
+in the Company's business has been developed or created by a third party for the
+Company, the Company (or subsidiaries) has a written agreement with such third
+party with respect thereto and the Company (or subsidiaries) either (i) has
+obtained ownership of, and is the exclusive owner of all such third party
+Intellectual Property, or (ii) has obtained a license (sufficient for the
+conduct of its business as currently conducted) to all such third parties'
+Intellectual Property by operation of law or by valid assignment or license, to
+the fullest extent it is legally possible to do so.
+
+            (g)    The Company has not transferred ownership of, or granted any
+exclusive license with respect to, any Intellectual Property currently used in
+the Company's business that is or was the Company Intellectual Property, to any
+third party.
+
+            (h)    All contracts, licenses and agreements relating to the
+Company Intellectual Property currently used in the Company's business are in
+full force and effect. The consummation of the transactions contemplated by this
+Agreement will neither violate nor result in the breach, modification,
+cancellation, termination, or suspension of such contracts, licenses and
+agreements. The Company is in compliance with, and has not breached any material
+term of any such contracts, licenses and agreements and, to the knowledge of the
+Company, all other parties to such contracts, licenses and agreements are in
+compliance with, and have not breached any term of, such contracts, licenses and
+agreements. Following the Closing Date, the Surviving Corporation will be
+permitted to exercise all of the Company's rights under such contracts, licenses
+and agreements to the same extent the Company would have been able to had the
+transactions contemplated by this Agreement not occurred and without the payment
+of any additional amounts or consideration other than ongoing fees, royalties or
+payments which the Company would otherwise be required to pay.
+
+            (i)    The operation of the business of the Company as such
+business is currently conducted, including the Company's design, development,
+marketing and sale of the products or services of the Company (including with
+respect to products currently under development) and the Company's use of the
+Company Intellectual Property, to the knowledge of the Company, has not, does
+not and will not infringe, dilute or misappropriate the Intellectual Property of
+any third party or constitute unfair competition or trade practices under the
+laws of any jurisdiction.
+
+            (j)    Except as provided in Section 2.14(j) of the Company
+Disclosure Schedule, the Company has not received actual notice from any third
+party and, to the knowledge of the Company, the Company has not received any
+threat, that the operation of the business of the Company or any act, product or
+service of the Company, infringes, dilutes or misappropriates the Intellectual
+Property of any third party or constitutes unfair competition or trade practices
+under the laws of any jurisdiction.
+
+
+                                       17
+
+<PAGE>
+
+
+            (k)    To the knowledge of the Company, no person has or is
+infringing, diluting or misappropriating any Company Intellectual Property or
+unfairly competing with the Company.
+
+            (l)    Except for the failure to require employees to execute a
+proprietary information/confidentiality agreement, the Company has taken
+reasonable steps to protect the Company's rights in the Company's confidential
+information and trade secrets that it wishes to protect or any trade secrets or
+confidential information of third parties provided to the Company or its
+subsidiaries. Except under confidentiality obligations, there has not been
+disclosure by the Company of any such trade secrets or confidential information.
+
+     2.15   Compliance; Permits; Restrictions.
+            ---------------------------------
+
+            (a)    Neither the Company nor any of its subsidiaries is in
+conflict with, or in default or in violation of (i) any law, rule, regulation,
+order, judgement or decree applicable to the Company or any of its subsidiaries
+or by which the Company or any of its subsidiaries or any of their respective
+business or properties is, or the Company believes is reasonably likely to be,
+bound or affected, or (ii) any note, bond, mortgage, indenture, contract,
+agreement, lease, license, permit, franchise or other instrument or obligation
+to which the Company or any of its subsidiaries is a party or by which the
+Company or any of its subsidiaries or its or any of their respective properties
+is bound or affected, except for conflicts, violations and defaults that
+(individually or in the aggregate) would not reasonably be expected to have a
+Company Material Adverse Effect. No investigation or review by any Governmental
+Entity is pending or, to the Company's knowledge, has been threatened in a
+writing delivered to the Company, against the Company or any of its
+subsidiaries, nor, to the Company's knowledge, has any Governmental Entity
+indicated an intention to conduct an investigation of the Company or any of its
+subsidiaries. There is no agreement, judgment, injunction, order or decree
+binding upon the Company or any of its subsidiaries which has or could
+reasonably be expected to have (after giving effect to the Merger) the effect of
+prohibiting or impairing any current or future business practice of the Company
+or any of its subsidiaries, any acquisition of property by the Company or any of
+its subsidiaries or the conduct of business by the Company or any of its
+subsidiaries as currently conducted or as currently proposed to be conducted.
+
+            (b)    The Company and its subsidiaries hold, to the extent legally
+required, all permits, licenses, variances, exemptions, orders and approvals
+from Government Entities that are required for the operation of the business of
+the Company as currently conducted (collectively, the "Company Permits") except
+for such permits, the failure of which to hold would not reasonably be expected
+to have a Company Material Adverse Effect. The Company and its subsidiaries are
+in compliance in all respects with the terms of the Company Permits, except
+where the failure to be in compliance with the terms of the Company Permits
+would not reasonably be expected to have a Company
+Material Adverse Effect.
+
+
+                                       18
+
+<PAGE>
+
+
+
+     2.16   Agreements, Contracts and Commitments. Except as otherwise set forth
+in Section 2.16 of the Company Disclosure Schedule, as of the date hereof
+neither the Company nor any of its subsidiaries is a party to or is bound by:
+
+            (a)    any employment or consulting agreement, contract or
+commitment with any officer or director or higher level employee or member of
+the Company's Board of Directors, other than those that are terminable by the
+Company or any of its subsidiaries on no more than 30 days notice without
+liability or financial obligation, except to the extent general principles of
+wrongful termination law may limit the Company's or any of its subsidiaries'
+ability to terminate employees at will;
+
+            (b)    any agreement of indemnification outside the ordinary course
+of the Company's business or any guaranty;
+
+            (c)    any agreement, contract or commitment containing any covenant
+limiting the right of the Company or any of its subsidiaries to engage in any
+line of business or to compete with any person or granting any exclusive
+distribution rights;
+
+            (d)    any agreement, contract or commitment currently in force
+relating to the disposition or acquisition by the Company or any of its
+subsidiaries after the date of this Agreement of assets not in the ordinary
+course of business or pursuant to which the Company or any of its subsidiaries
+has any material ownership interest in any corporation, partnership, joint
+venture or other business enterprise other than the Company's subsidiaries;
+
+            (e)    any agreement, contract or commitment currently in force to
+provide source code to any third party for any product or technology; or
+
+            (f)    any other agreement, contract or commitment currently in
+effect that is expected to represent more than 10% of the Company's revenue for
+the calendar year 2000 or that requires the Company to make payments of greater
+than $500,000 per year or more than $1,500,000 in the aggregate.
+
+     Neither the Company nor any of its subsidiaries, nor to the Company's
+knowledge any other party to a Company Contract (as defined below) is in breach,
+violation or default under, and neither the Company nor any of its subsidiaries
+has received written notice that it has breached, violated or defaulted under,
+any of the material terms or conditions of any of the agreements, contracts or
+commitments to which the Company or any of its subsidiaries is a party or by
+which it is bound that are required to be disclosed in the Company Disclosure
+Schedule pursuant to clauses (a) through (f) above or pursuant to Section 2.14
+hereof (any such agreement, contract or commitment, a "Company Contract") in
+such a manner as would permit any other party to cancel or terminate any such
+Company Contract, or would permit any other party to seek damages or other
+remedies which would have a Company Material Adverse Effect. The Company
+Contracts are in full force and effect and the Company and its subsidiaries have
+
+
+                                       19
+<PAGE>
+
+
+performed all of the material obligations required to be performed by them and
+are entitled to all accrued benefits under all the Company Contracts.
+
+     2.17   Title to Properties; Absence of Liens and Encumbrances.
+            ------------------------------------------------------
+
+            (a)    The Company owns no real property interests.  Section 2.17(a)
+of the Company Disclosure Schedule lists all real property leases to which the
+Company is a party and each amendment thereto that is in effect as of the date
+of this Agreement. All such current leases are in full force and effect, are
+valid and effective in accordance with their respective terms, and there is not,
+under any of such leases, any existing default or event of default (or event
+which with notice or the lapse of time, or both, would constitute a default)
+that would give rise to a material claim.
+
+            (b)    The Company and each of its subsidiaries has good and valid
+title to, or in the case of leased properties and assets, valid leasehold
+interests in, all of its tangible properties and assets, real, personal and
+mixed, used or held for use in its business, free and clear of any Encumbrances,
+except as reflected in the Company Financials. The Company's equipment and
+assets (whether owned or leased) are in good operating condition and repair,
+subject to ordinary wear and tear. All assets, properties and rights relating to
+the Company's business will, at the Closing, be held by, and all agreements,
+obligations and transactions relating to the Company's business will, at the
+Closing, be entered into, incurred and conducted by, the Company or its
+subsidiaries.
+
+     2.18   Environmental Matters.
+            ---------------------
+
+            (a)    To the knowledge of the Company, all of the current
+operations of the Company and each of its subsidiaries and their respective
+assets, businesses and real property, including any operations at or from any
+real property presently or formerly owned, used, leased, occupied, managed or
+operated by the Company or any of its subsidiaries (collectively, the "Real
+Property"), comply in all material respects and have at all times complied in
+all material respects with all applicable Environmental Laws.
+
+            (b)    To the knowledge of the Company, none of the assets of the
+Company or any of its subsidiaries, nor any of the Real Property, contains any
+Hazardous Substances in, on, over, under or at it, in concentrations which would
+violate in any material respect any applicable Environmental Laws or reasonably
+would be likely to result in the imposition of material liability or obligations
+on the Company or any of its subsidiaries under any applicable Environmental
+Laws, including any material liability or obligations for the investigation,
+corrective action, remediation or monitoring of Hazardous Substances in, on,
+over, under or at the Real Property. Neither the Company nor any of its
+subsidiaries has received any written notice from any Governmental Entity or
+third party of any actual or threatened Environmental Liabilities.
+
+
+                                       20
+<PAGE>
+
+
+
+            (c)    To the knowledge of the Company, each of the Company and its
+subsidiaries has all the permits, licenses, authorizations and approvals
+necessary for the conduct of their businesses and for the operations on, in or
+at the Real Property which are required under applicable Environmental Laws (the
+"Environmental Permits") and they are in compliance in all material respects
+with the terms and conditions of all such Environmental Permits. To the
+knowledge of the Company, no reason exists why the Company would not be capable
+of continued operation of its business in compliance in all material respects
+with the Environmental Permits and the applicable Environmental Laws.
+
+            (d)    To the knowledge of the Company, neither the Company nor any
+of its subsidiaries has contractually, by operation of law, by the Environmental
+Laws, by common law or otherwise assumed or succeeded to any Environmental
+Liabilities of any predecessors or any other person or entity.
+
+     2.19   Insurance. The Company and its subsidiaries have, as of January 1,
+2000, policies of insurance and bonds of the type and in amounts customarily
+carried by persons conducting businesses or owning assets similar to those of
+the Company and its subsidiaries. There is no material claim pending under any
+of such policies or bonds as to which coverage had been questioned, denied or
+disputed by the underwriters of such policies or bonds. All premiums due and
+payable under all such policies and bonds have been paid and the Company and its
+subsidiaries are otherwise in compliance with the terms of such policies and
+bonds. The Company has no knowledge of any threatened termination of, or
+material premium increase with respect to, any such policies.
+
+     2.20   Change of Control Payments. Section 2.20 of the Company Disclosure
+Schedule sets forth each plan or agreement pursuant to which any amounts may
+become payable (whether currently or in the future) to current or former
+officers and directors of the Company as a result of the Merger.
+
+     2.21   Interested Party Transactions. Except as provided in Section 2.21 of
+the Company Disclosure Schedule, neither the Company nor any of its subsidiaries
+are indebted to any director, officer, employee or agent of the Company or any
+of its subsidiaries (except for amounts due as normal salaries and bonuses and
+in reimbursement of ordinary expenses), and no such person is indebted to the
+Company and its subsidiaries.
+
+     2.22   Books and Records. The minute books and records of the Company and
+its subsidiaries made available to 24/7 have been maintained in accordance with
+good business practices, contain a complete and accurate summary of all meetings
+of the directors or actions by written consent since the time of organization of
+the Company and its subsidiaries, and reflect all transactions referred to in
+such minutes accurately in all material respects.
+
+     2.23 Improper Payments. The Company and its officers and agents have not
+made any illegal or improper payments to, or provided any illegal or improper
+benefit or
+
+
+                                       21
+<PAGE>
+
+
+inducement for, any governmental official, supplier, customer or other person in
+an attempt to influence any such person to take or to refrain from taking any
+action relating to the Company.
+
+     2.24   Year 2000.
+            ---------
+
+            (a)    The computer systems of the Company (including, without
+limitation, all software, hardware, workstations and related components,
+automated devices, products consisting of or containing one or more thereof, and
+any and all enhancements, upgrades, customizations, modifications or
+maintenance, embedded chips and other date sensitive equipment such as security
+systems, alarms, elevators and other systems) ("Computer Systems") are Year 2000
+Compliant (as defined below), except to the extent that such Computer Systems
+receive data from third party computer systems that are not Year 2000 Compliant.
+
+            (b)    The Company's supply of services through its Computer Systems
+has not been and shall not be interrupted, delayed, decreased or otherwise
+affected in any material respect by the failure of its Computer Systems to be
+Year 2000 Compliant.
+
+            (c)    To the knowledge of the Company, the Company's Computer
+Systems have the ability to properly interface and will continue to properly
+interface with internal and external applications and systems of third parties
+with whom the Company exchanges data electronically (including, without
+limitation, customers, clients, suppliers, service providers, subcontractors,
+processors, converters, shippers, warehousemen, outsourcers, data processors,
+regulatory agencies and banks), whether or not their Computer Systems are Year
+2000 Compliant.
+
+     For purposes of this Agreement, "Year 2000 Compliant" means that the
+Company's Computer Systems (1) are capable of recognizing, processing, managing,
+representing, interpreting and manipulating correctly date-related data for
+dates earlier and later than January 1, 2000, including, but not limited to,
+calculating, comparing, sorting, storing, tagging and sequencing, without
+resulting in or causing logical or mathematical errors or inconsistencies in any
+user-interface functionalities or otherwise, including data input and retrieval,
+data storage, data fields, calculations, reports, processing or any other input
+or output, (2) have the ability to provide date recognition for any data element
+without limitation (including, but not limited to, date-related data represented
+without a century designation, date-related data whose year is represented by
+only two digits and date fields assigned special values), (3) have the ability
+to automatically function into and beyond the year 2000 without an abnormal
+ending or a termination of such function resulting from the advent of the year
+2000, (4) have the ability to correctly interpret data, dates and time into and
+beyond the year 2000, (5) have the ability not to corrupt such data into and
+beyond the year 2000, (6) have the ability to correctly process after January 1,
+2000 data containing dates before that date, (7) have the ability to recognize
+all "leap years," including February 29, 2000.
+
+     2.25   Disclosure. No representation, warranty or other written statement
+by the Company herein contains or will contain an untrue statement of a material
+fact or omits or will
+
+
+                                       22
+
+<PAGE>
+
+
+omit to state a material fact necessary to make the statements contained herein
+or therein not misleading.
+
+     2.26   Condition and Sufficiency of Assets. The Company owns or has the
+right to use without payment of royalty all the tangible and intangible assets
+necessary for the conduct of its business as conducted prior to the date hereof.
+The buildings, plants, structures, and equipment of the Company are structurally
+sound, are in good operating condition and repair, and are adequate for the uses
+to which they are being put and are sufficient for the continued conduct of the
+Company's businesses after the Closing in substantially the same manner as
+conducted prior to the Closing, and the Company has conducted, and continues to
+conduct, its business only through the Company.
+
+     2.27   Hart-Scott Rodino. The Company has no other ultimate parent entity
+and does not meet the "size-of-the-parties" jurisdiction test imposed by Section
+201(a)(2) of the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as
+amended (the "Act"), and the regulations promulgated thereunder, and no filing
+under such Act is required in connection with the transactions contemplated by
+this Agreement.
+
+     2.28   Brokers. No broker, finder or investment banker, other than
+Prudential Securities and Erland & Company, Inc., is entitled to any brokerage,
+finder's or other fee or commission in connection with the transactions
+contemplated by this Agreement based upon arrangements made by or on behalf of
+the Company.
+
+     2.29   Section 203 of the Delaware Law. The Board of Directors of the
+Company has taken all actions so that the restrictions contained in Section 203
+of the Delaware Law applicable to a "business combination" (as defined in such
+Section 203) will not apply to the execution, delivery or performance of this
+Agreement or to the consummation of the Merger or the other transactions
+contemplated by this Agreement.
+
+     2.30   Expenses. The Company's expenses in connection with the negotiation
+of this Agreement and the transactions contemplated hereby, including any fees
+to Prudential Securities, shall not exceed $2.5 million, in the aggregate, and
+an estimate thereof is set forth in Section 2.30 of the Company Disclosure
+Schedule.
+
+
+                                       23
+
+<PAGE>
+
+
+     2.31   Acquisition of Stock for Investment . Each of the Stockholders that
+receives 24/7 Common Stock as part of the Merger Consideration hereunder
+acknowledges that such shares of 24/7 Common Stock may not be sold, transferred,
+offered for sale, pledged, hypothecated, lent, or otherwise disposed of by him
+or it without registration under the Securities Act, except pursuant to
+Regulation S under the Securities Act or pursuant to another exemption from
+registration under the Securities Act, and without compliance with applicable
+Blue Sky Laws. Each Stockholder is an "accredited investor" as that term is
+defined in Rule 501 promulgated under the Securities Act. Each Stockholder has
+received all requested documents and other information from 24/7, and has had an
+opportunity to ask questions of and to receive answers from the officers of 24/7
+with respect to the business, results of operations, financial conditions and
+prospects of 24/7.
+
+
+                                   ARTICLE III
+            REPRESENTATIONS AND WARRANTIES OF 24/7 AND THE SUBSIDIARY
+
+     24/7 and the Subsidiary hereby represent and warrant to the Company subject
+to the exceptions specifically disclosed in writing in the disclosure letter
+delivered by 24/7 to the Company dated as of the date hereof and certified by a
+duly authorized officer of 24/7 (the "24/7 Disclosure Schedule"), as follows:
+
+     3.1    Organization and Qualification; Organizational Documents.
+            --------------------------------------------------------
+
+            (a)    Each of 24/7 and the Subsidiary is a corporation duly
+organized, validly existing and in good standing under the laws of the State of
+Delaware and has the requisite power and authority to own, lease and operate the
+properties it purports to own, operate or lease and to carry on its business as
+it is now being conducted, except where the failure to be so organized, existing
+and in good standing or to have such power and authority would not reasonably be
+expected to have a material adverse effect on the business, results of
+operations or financial condition of 24/7, taken as a whole, or on the ability
+of the parties to consummate the transactions contemplated by this Agreement
+("24/7 Material Adverse Effect"). Each of 24/7 and the Subsidiary is duly
+qualified or licensed as a foreign corporation to do business, and is in good
+standing, in each jurisdiction where the character of its properties owned,
+leased or operated by it or the nature of its activities makes such
+qualification or licensing necessary, except for such failures to be so duly
+qualified or licensed and in good standing that would not reasonably be expected
+to have a 24/7 Material Adverse Effect.
+
+            (b)    24/7 has made available to the Company a complete and correct
+copy of 24/7's and the Subsidiary's Certificate of Incorporation (certified by
+the Secretary of State of the State of Delaware) and By-Laws, each as amended to
+date. Such Certificates of Incorporation and By-Laws are in full force and
+effect. Neither 24/7 nor the Subsidiary is in violation of any of the provisions
+of its respective Certificate of Incorporation or By-Laws.
+
+
+                                       24
+
+<PAGE>
+
+
+     3.2    Capitalization.
+            --------------
+
+            (a)    The authorized capital stock of 24/7 as of December 31, 1999
+consisted of: (i) 70,000,000 shares of 24/7 Common Stock, of which 22,421,516
+shares were issued and outstanding; and (ii) 10,000,000 shares of preferred
+stock, par value $.01 per share, none of which were issued and outstanding,
+subject to the issuance of capital stock in connection with the acquisition of
+IMAKE Software & Services, Inc. All of the outstanding shares of 24/7 Common
+Stock are duly authorized, validly issued and are fully paid and nonassessable
+and are not subject to preemptive or similar rights created by statute, the
+Certificate of Incorporation or By-Laws of 24/7 or any agreement or document to
+which 24/7 is a party or by which it is bound. As of December 31, 1999, there
+were options outstanding to purchase an aggregate of 3,235,538 shares of 24/7
+Common Stock under 24/7's stock option plans. The authorized capital stock of
+the Subsidiary consists of 1,000 shares of common stock, par value $.01 per
+share, 100 shares of which are issued and outstanding, and wholly owned by 24/7.
+The Subsidiary was formed for the purpose of consummating the Merger and has no
+material assets or liabilities except as necessary for such purpose.
+
+            (b)    The shares of 24/7 Common Stock to be issued in the Merger
+have been duly authorized and, when so issued in accordance with the terms
+hereof, such shares will be validly issued, fully paid and nonassessable
+
+     3.3    Authority Relative to this Agreement.
+            ------------------------------------
+
+            (a)    Each of 24/7 and the Subsidiary has all necessary corporate
+power and authority to execute and deliver this Agreement and to perform its
+obligations hereunder and to consummate the transactions contemplated hereby, as
+well as all other agreements, certificates and documents executed or delivered,
+or to be executed or delivered, by 24/7 and/or the Subsidiary in connection
+herewith (collectively, with this Agreement, the "24/7 Documents"). The
+execution and delivery of this Agreement by 24/7 and the Subsidiary and the
+consummation by 24/7 and the Subsidiary of the transactions contemplated hereby
+have been duly and validly authorized by all necessary corporate action on the
+part of 24/7 and the Subsidiary, and no other corporate proceedings on the part
+of 24/7 or the Subsidiary are necessary to authorize this Agreement or to
+consummate the transactions so contemplated hereby, except for the filing of the
+Certificate of Merger pursuant to Delaware Law. Each of the 24/7 Documents to
+which 24/7 and/or the Subsidiary is, or will be, a party has been, or will be,
+duly and validly executed and delivered by 24/7 and/or the Subsidiary, and,
+assuming the due authorization, execution and delivery of the 24/7 Documents by
+the Company are (or when executed and delivered will be) legal, valid and
+binding obligations of 24/7 and/or the Subsidiary, enforceable against 24/7
+and/or the Subsidiary in accordance with their respective terms, except as
+limited by (i) applicable bankruptcy, insolvency, reorganization, moratorium and
+other laws of general application affecting the enforcement of creditors' rights
+generally and (ii) general principles of equity, regardless of whether asserted
+in a proceeding in equity or at law.
+
+
+                                       25
+
+<PAGE>
+
+
+
+            (b)    The Board of Directors of 24/7 (and the Board of Directors of
+the Subsidiary, as necessary) at a meeting duly called at which all members were
+present has (i) unanimously declared that this Agreement, the Merger and the
+other transactions contemplated hereby are fair to and in the best interests of
+24/7 and its stockholders; and (ii) authorized, approved and adopted this
+Agreement, the Merger and the other transactions contemplated hereby. None of
+the aforesaid actions by the Board of Directors of 24/7 has been amended,
+rescinded or modified.
+
+     3.4    No Conflict, Required Filings and Consents.
+            ------------------------------------------
+
+            (a)    The execution and delivery of this Agreement by 24/7 and the
+Subsidiary do not, and the performance of this Agreement by 24/7 and the
+Subsidiary will not, (i) conflict with or violate the Certificate of
+Incorporation or By-Laws of 24/7 or the Subsidiary; (ii) subject to compliance
+with the requirements of Section 3.4(b) conflict with or violate any law, rule,
+regulation, order, judgment or decree applicable to 24/7 or the Subsidiary or by
+which any of 24/7's or the Subsidiary's respective properties is bound or
+affected; or (iii) result in any breach of or constitute a default (or an event
+which with notice or lapse of time or both would become a default) under, or
+impair 24/7's or the Subsidiary's rights or alter the rights or obligations of
+any third party under, or give to others any rights of termination, amendment,
+acceleration or cancellation of, or result in the creation of an Encumbrance on
+any of the properties or assets of 24/7 or the Subsidiary pursuant to, any note,
+bond, mortgage, indenture, contract, agreement, lease, license, permit,
+franchise or other instrument or obligation to which 24/7 or the Subsidiary is a
+party or by which 24/7 or the Subsidiary or any of their respective properties
+is bound or affected, except in any such case for any such breaches, violations
+or defaults that would not have a 24/7 Material Adverse Effect.
+
+            (b)    The execution and delivery of this Agreement by 24/7 and the
+Subsidiary does not, and the performance of this Agreement by 24/7 and the
+Subsidiary will not, require any consent, approval, authorization or permit of,
+or declaration, registration or filing with or notification to, any Governmental
+Entity, (i) such consents, approvals, orders, authorizations, registrations and
+declarations and filings as may be required under applicable federal and state
+securities (or related) laws; and (ii) such consents, approvals, authorizations,
+filings and registrations which if not obtained or made, would not prevent or
+delay consummation of the Merger or otherwise prevent 24/7 from performing its
+obligations under this Agreement.
+
+
+
+                                       26
+
+<PAGE>
+
+
+     3.5    SEC Filings, 24/7 Financial Statements.
+            --------------------------------------
+
+            (a)    24/7 has filed all forms, reports and documents required to
+be filed by it with the SEC since December 31, 1998 and has delivered or made
+available to the Company, in the form filed with the SEC, such forms, reports
+and documents. All such required forms, reports and documents (including those
+that 24/7 may file subsequent to the date hereof), as amended, are referred to
+herein as the "24/7 SEC Reports." The 24/7 SEC Reports (including any financial
+statements or schedules included therein) (i) were prepared in accordance with
+the requirements of the Securities Act or the Exchange Act, as the case may be,
+and the rules and regulations of the SEC thereunder applicable to such 24/7 SEC
+Reports, and (ii) did not at the time they were filed (or if amended or
+superseded by a filing prior to the date of this Agreement, then on the date of
+such filing) contain any untrue statement of a material fact or omit to state a
+material fact required to be stated therein or necessary in order to make the
+statements therein, in the light of the circumstances under which they were
+made, not misleading. None of 24/7's subsidiaries is required to file any forms,
+reports or other documents with the SEC.
+
+            (b)    Each of the consolidated financial statements (including, in
+each case, any related notes thereto) contained in the 24/7 SEC Reports (the
+"24/7 Financials"), including each 24/7 SEC Report filed after the date hereof
+until Closing: (i) complied (or will comply) as to form in all material respects
+with the rules and regulations of the SEC with respect thereto, (ii) was (or
+will be) prepared in accordance with GAAP applied on a consistent basis
+throughout the periods involved (except as may be indicated therein or in the
+notes thereto or, in the case of unaudited interim financial statements, as may
+be permitted by the SEC on Form 10-Q under the Exchange Act) and (iii) fairly
+presented (or will fairly present) in all material respects the consolidated
+financial position of 24/7 and its consolidated subsidiaries as at the
+respective dates thereof and the consolidated results of its operations and cash
+flows for the periods indicated, except that the unaudited interim financial
+statements were or are subject to normal and recurring year-end adjustments and
+such statements do not contain notes thereto.
+
+            (c)    24/7 has heretofore furnished to the Company a complete and
+correct copy of any amendments or modifications, which have not yet been filed
+with the SEC but which are required to be filed, to agreements, documents or
+other instruments which previously had been filed by 24/7 with the SEC pursuant
+to the Securities Act or the Exchange Act.
+
+     3.6    No Undisclosed Liabilities. Except as is disclosed in Section 3.6
+of the 24/7 Disclosure Schedule or in the 24/7 Financials, neither 24/7 nor any
+of its subsidiaries has any liabilities (absolute, accrued, contingent or
+otherwise) of the type that are required to be disclosed in financial
+statements, including the notes thereto, prepared in accordance with GAAP which
+are, individually or in the aggregate, material to the business, operations or
+financial condition of 24/7 and its subsidiaries taken as a whole, except
+liabilities (i) adequately provided for or referred to in the Company's balance
+sheet and the related notes thereto as of September 30, 1999 included in 24/7's
+Form 10-Q for the quarter ended September 30, 1999 (which is part of the 24/7
+SEC Reports) (the "24/7 Balance Sheet"), (ii) incurred since the date of
+
+
+                                       27
+
+<PAGE>
+
+
+the 24/7 Balance Sheet in the ordinary course of business and consistent with
+past practice and (iii) incurred in connection with the transactions
+contemplated by this Agreement.
+
+     3.7    No Adverse Change. Since the date of the 24/7 Balance Sheet, 24/7
+has conducted its business in the ordinary course and there has not occurred any
+material adverse change in the business, properties, assets, liabilities,
+commitments, earnings or financial condition of 24/7 and its subsidiaries, taken
+as a whole.
+
+     3.8    Litigation. There are no claims, actions, suits or proceedings
+pending or, to the knowledge of 24/7, threatened relating to or affecting 24/7
+or any of its subsidiaries before any Governmental Entity that seek to restrain
+or enjoin the consummation of the transactions contemplated by this Agreement.
+
+
+                                  ARTICLE IV
+
+                            COVENANTS OF THE COMPANY
+
+     The Company covenants and agrees that between the date hereof and the
+Effective Time:
+
+     4.1    Actions. The Company will not take any action that would cause any
+of the representations and warranties made by it in any of the Company Documents
+not to be true and correct in all material respects on and as of the Closing
+Date with the same force and effect as if such representations and warranties
+had been made on and as of the Closing Date.
+
+     4.2    Access by 24/7. 24/7 and its representatives and advisors shall,
+upon prior written notice to the Company, have reasonable access during normal
+business hours to the Company's assets, premises, books and records, key
+employees and accountants, including the work papers of the Company's
+accountants relating to the Unaudited Financials, and the Company shall furnish
+24/7 with such information and copies of such documents as 24/7 may reasonably
+request. The Company shall promptly furnish to 24/7 all financial statements of
+the Company that are prepared in the ordinary course of business, including,
+without limitation, monthly reports of sales, revenue and cash flow and balance
+sheets, if any are prepared.
+
+     4.3    Conduct of Business. The business of the Company shall be conducted
+in all material respects in the ordinary course, consistent with the present
+conduct of its business, and the Company shall use commercially reasonable
+efforts to maintain, preserve and protect the assets and goodwill of the
+Company. Without limiting the generality of the foregoing, the Company shall
+not, without the prior written consent of 24/7, take or commit to take any of
+following actions:
+
+
+                                       28
+<PAGE>
+
+
+            (a)    amend its By-Laws or Certificate of Incorporation;
+
+            (b)    issue any additional shares of capital stock, or issue,
+sell or grant any option or right to acquire or otherwise dispose of any of its
+authorized but unissued capital stock or other equity or debt securities;
+
+            (c)    declare or pay any dividends or make any other
+distribution in cash, property or securities on its capital stock;
+
+            (d)    repurchase or redeem any shares of its capital stock;
+
+            (e)    incur, or perform, pay or otherwise discharge, any material
+obligation or liability (absolute or contingent), except for
+obligations and liabilities incurred in the ordinary course of business
+consistent with past practice;
+
+            (f)    enter into any employment agreement with or increase the
+compensation or benefits of any of its officers or employees, or grant any
+severance pay or termination or establish, adopt or enter into any Plan;
+
+            (g)    sell, lease, transfer or otherwise dispose of, or acquire,
+any material properties or assets, tangible or intangible, other than in the
+ordinary course of business;
+
+            (h)    make any material changes in its customary method of
+operations, including marketing, selling and pricing policies and maintenance of
+business premises, fixtures, furniture and equipment;
+
+            (i)    modify, amend or cancel any of its existing leases or enter
+into any material contracts, agreements, leases or understandings other than
+in the ordinary course of business or enter into any loan agreements;
+
+            (j)    make any material investments other than in certificates of
+deposit or short-term commercial paper; or
+
+            (k)    change any of the accounting principles or practices used by
+it, except to come into compliance with, or as required by GAAP.
+
+     4.4    Notification of Certain Matters. The Company shall give prompt
+notice to 24/7 of (i) the occurrence, or non-occurrence, of any event the
+occurrence, or non-occurrence, of which would be likely to cause any
+representation or warranty contained in any of the Company Documents that is
+qualified as to materiality to be untrue or inaccurate or any such
+representation or warranty that is not so qualified to be untrue or inaccurate
+in any material respect and (ii) any failure of the Company materially to comply
+with or satisfy any covenant, condition or agreement to be complied with or
+satisfied by it hereunder; provided, however, that the delivery
+
+
+                                       29
+
+<PAGE>
+
+
+of any notice pursuant to this Section 4.4 shall not limit or otherwise affect
+the remedies available hereunder to the party receiving such notice.
+
+     4.5    Further Action. Upon the terms and subject to the conditions hereof,
+the Company shall use all commercially reasonable efforts to take, or cause to
+be taken, all actions and to do, or cause to be done, all other things
+necessary, proper or advisable to consummate and make effective as promptly as
+practicable the transactions contemplated by this Agreement and to obtain in a
+timely manner all necessary waivers, consents and approvals and to effect all
+necessary registrations and filings.
+
+     4.6    Public Announcements. The Company shall consult with 24/7 before
+issuing any press release or otherwise making any public statement with respect
+to the Merger and shall not issue any such press release or make any such public
+statement, except as may be required by law, without the prior written consent
+of 24/7, which may not be unreasonably withheld or delayed.
+
+     4.7    Government Compliance. The Company agrees promptly to effect all
+necessary registrations, filings, applications and submissions of information
+required or requested by governmental authorities.
+
+                                    ARTICLE V
+
+                      COVENANTS OF 24/7 AND THE SUBSIDIARY.
+
+     24/7 and the Subsidiary covenant and agree that between the date hereof
+and the Effective Time:
+
+     5.1    Actions. Neither 24/7 nor the Subsidiary will take any action that
+would cause any of the representations and warranties made by it in any of
+the 24/7 Documents not to be true and correct in all material respects on and as
+of the Closing Date with the same force and effect as if such representations
+and warranties had been made on and as of the Closing Date.
+
+     5.2    Notification of Certain Matters. 24/7 shall give prompt notice to
+the Company of (i) the occurrence, or non-occurrence, of any event the
+occurrence, or non-occurrence, of which would be likely to cause any
+representation or warranty contained in any of the 24/7 Documents to be untrue
+or inaccurate and (ii) any failure of 24/7 or the Subsidiary materially to
+comply with or satisfy any covenant, condition or agreement to be complied with
+or satisfied by it hereunder; provided, however, that the delivery of any notice
+pursuant to this Section 5.2 shall not limit or otherwise affect the remedies
+available hereunder to the party receiving such notice.
+
+     5.3    Further Action. Upon the terms and subject to the conditions hereof,
+24/7 and the Subsidiary shall use all commercially reasonable efforts to take,
+or cause to be taken, all actions and to do, or cause to be done, all other
+things necessary, proper or advisable to
+
+
+                                       30
+
+<PAGE>
+
+
+
+consummate and make effective as promptly as practicable the transactions
+contemplated by this Agreement and to obtain in a timely manner all necessary
+waivers, consents and approvals and to effect all necessary registrations and
+filings.
+
+     5.4    Public Announcements. 24/7 and the Subsidiary shall consult with
+the Company before issuing any press release or otherwise making any public
+statement with respect to the Merger and shall not issue any such press release
+or make any such public statement, except as may be required by law, without the
+prior written consent of the Company, which may not be unreasonably withheld or
+delayed.
+
+     5.5    Government Compliance. 24/7 and the Subsidiary agree promptly to
+effect all necessary registrations, filings, applications and submissions of
+information required or requested by governmental authorities and to use
+commercially reasonable efforts to obtain any necessary approvals and early
+termination of any applicable waiting period.
+
+
+                                   ARTICLE VI
+
+        CONDITIONS PRECEDENT TO OBLIGATIONS OF 24/7 AND THE SUBSIDIARY
+
+     The obligations of 24/7 and the Subsidiary to consummate the transactions
+contemplated by the 24/7 Documents are subject to the fulfillment, at or before
+the Effective Time, of each of the following conditions, any of which may be
+waived by 24/7 and the Subsidiary in writing, and the Company shall use
+commercially reasonable efforts to cause such conditions to be fulfilled:
+
+     6.1    Representations and Warranties. Each of the representations and
+warranties of the Company in the Company Documents shall be true and correct in
+all material respects on and as of the Effective Time as if made on and as of
+the Effective Time, except to the extent that any such representation or
+warranty is made as of a specified date, in which case such representation or
+warranty shall have been true and correct in all material respects as of such
+date.
+
+     6.2    Performance by the Company. The Company shall have performed and
+complied in all material respects with all agreements, covenants and conditions
+required by the Company Documents to be performed or complied with by the
+Company at or before the Effective Time.
+
+     6.3    Certificate. 24/7 shall have received a certificate executed by the
+Company, dated the Closing Date, certifying, in such detail as 24/7 may
+reasonably request, as to the fulfillment of the conditions set forth in
+Sections 6.1 and 6.2.
+
+     6.4    Employment Agreement. James Green, David Turner and Gour Lentell
+shall have each entered into an Employment Agreement with 24/7 in the form
+attached hereto
+
+
+                                       31
+<PAGE>
+
+
+
+as Exhibit B and a Non-Competition and Non-Disclosure Agreement with 24/7 in the
+form attached hereto as Exhibit C (collectively, the "Employment Agreements").
+
+     6.5    Registration Rights Agreement. The Company and the Stockholders
+shall have entered into a Registration Rights Agreement with 24/7 in the form
+attached hereto as Exhibit D (the "Registration Rights Agreements").
+
+     6.6    Opinion of Counsel to the Company. The Company shall have delivered
+to 24/7 an opinion of Brobeck, Phleger & Harrison LLP, counsel to the Company,
+dated the Closing Date, covering, in substance, the legal matters described in
+Sections 2.1 (as relates to Company only), 2.5 (a), (b), (c) and (d), and 2.6
+(a) (i) and (ii) and (b).
+
+     6.7    Consents. The Company shall have obtained, or to the reasonable
+satisfaction of 24/7 obviated the need to obtain, all consents, approvals and
+waivers from governmental and regulatory authorities and third parties necessary
+for the execution, delivery and performance of the Company Documents and the
+transactions contemplated thereby, without any material cost or adverse
+consequences to the Company.
+
+     6.8    Litigation. No action or proceeding shall be pending before any
+court, tribunal or governmental entity, and no claim or demand shall have been
+made against 24/7, the Subsidiary, any Stockholder or the Company, seeking to
+restrain or prohibit the consummation of the transactions contemplated by any of
+the Company Documents, which in the reasonably exercised opinion of 24/7 makes
+it inadvisable to consummate such transactions.
+
+     6.9    No Violation. There shall not have been any action taken, or any
+statute, rule, regulation or order enacted, promulgated, issued or deemed
+applicable to the Merger by any federal or state government or governmental or
+regulatory authority or court, which would: (i) prohibit the Surviving
+Corporation's ownership or operation of all or a material portion of the
+Company's business or assets, or compel the Surviving Corporation to dispose of
+or hold separate all or a material portion of the Company's business or assets,
+as a result of the Merger; (ii) render any party hereto unable to consummate the
+Merger; (iii) make such consummation illegal; or (iv) impose or confirm material
+limitations on the ability of 24/7 effectively to exercise full rights of
+ownership of shares of the capital stock of the Surviving Corporation,
+including, without limitation, the right to vote any such shares on all matters
+properly presented to the stockholders of the Surviving Corporation, and no such
+action shall have been taken or any such statute, rule, regulation or order
+enacted, promulgated, issued or deemed applicable to the Merger which is
+reasonably likely to produce such result.
+
+
+
+                                       32
+<PAGE>
+
+                                   ARTICLE VII
+
+              CONDITIONS PRECEDENT TO OBLIGATIONS OF THE COMPANY
+
+     The obligations of the Company to consummate the transactions contemplated
+by the Company Documents are subject to the fulfillment, at or before the
+Effective Time, of each of the following conditions, any of which may be waived
+by the Company in writing, and 24/7 and the Subsidiary shall use commercially
+reasonable efforts to cause such conditions to be fulfilled:
+
+     7.1    Representations and Warranties. Each of the representations and
+warranties of 24/7 and/or the Subsidiary in the 24/7 Documents shall be true and
+correct in all material respects on and as of the Effective Time as if made on
+and as of the Effective Time, except to the extent that any such representation
+or warranty is made as of a specified date, in which case such representation or
+warranty shall have been true and correct in all material respects as of such
+date.
+
+     7.2    Performance by 24/7 and the Subsidiary. 24/7 and the Subsidiary
+shall have performed and complied in all material respects with all agreements,
+covenants and conditions required by the 24/7 Documents to be performed or
+complied with by 24/7 and/or the Subsidiary at or before the Effective Time.
+
+     7.3    Certificate. The Company shall have received a certificate executed
+by 24/7, dated the Closing Date, certifying, in such detail as the Company may
+reasonably request, as to the fulfillment of the conditions set forth in
+Sections 7.1 and 7.2.
+
+     7.4    Employment Agreement.  24/7 shall have entered into the Employment
+Agreements and the Non-Disclosure Agreements.
+
+     7.5    Registration Rights Agreement.  24/7 shall have entered into the
+Registration Rights Agreement.
+
+     7.6    Opinion of Counsel to 24/7 and the Subsidiary. 24/7 and the
+Subsidiary shall have delivered to the Company an opinion of Proskauer Rose LLP,
+counsel to 24/7 and the Subsidiary, dated the Closing Date, covering, in
+substance, the legal matters described in Sections 3.1(a), 3.2(b), 3.3(a),
+3.4(a)(i) and (ii) and (b).
+
+     7.7    No Violation. There shall not have been any action taken, or any
+statute, rule, regulation or order enacted, promulgated, issued or deemed
+applicable to the Merger by any federal or state governmental or regulatory
+authority or court, which would (i) render any party hereto unable to consummate
+the Merger or (ii) make such consummation illegal.
+
+
+<PAGE>
+
+                                  ARTICLE VIII
+
+                               CLOSING DELIVERIES
+
+     8.1    Deliveries of the Company. At the Closing (or as provided below),
+the Company and the Stockholders shall deliver, or shall cause to be delivered,
+to 24/7 and the Subsidiary the following:
+
+            (a)    Certificates representing the Shares, together with properly
+executed stock powers and any required stock transfer tax stamps affixed thereto
+and all taxes on such transfer, if any, paid in full, all at the expense of the
+holders of such Shares;
+
+            (b)    The Employment Agreements;
+
+            (c)    The Registration Rights Agreement;
+
+            (d)    The opinion of Brobeck, Phleger & Harrison LLP, counsel to
+the Company;
+
+            (e)    The certificate referred to in Section 6.3, duly executed;
+
+            (f)    The Escrow Indemnity Agreement;
+
+            (g)    The minute books of the Company; and
+
+            (h)    Duly executed resignations of all directors, officers and
+fiduciaries of the Company.
+
+     8.2    24/7 and Subsidiary Deliveries. At the Closing (or as provided
+below), 24/7 and the Subsidiary shall deliver, or shall cause to be delivered,
+to the Company and the Stockholders, as the case may be, the following:
+
+            (a)    As promptly as practicable after the Closing, in accordance
+with instructions received from the Company and the Stockholders, the
+Merger Consideration, including Certificates representing shares of 24/7 Common
+Stock in payment of the Merger Consideration, registered in the name of each of
+the holders of Capital Shares, subject to Section 1.8;
+
+            (b)    The Employment Agreements;
+
+            (c)    The Registration Rights Agreement;
+
+            (d)    The opinion of Proskauer Rose LLP, counsel to 24/7 and the
+Subsidiary;
+
+
+                                       34
+
+<PAGE>
+
+
+            (e)    The Escrow Indemnity Agreement; and
+
+            (f)    The certificate referred to in Section 7.3 hereof, duly
+executed.
+
+
+                                   ARTICLE IX
+
+                                 INDEMNIFICATION
+
+     9.1    Indemnification by Sabela and the Stockholders. Subject to the
+limitations set forth in Article X below, Sabela and the Stockholders shall
+jointly and severally, indemnify, defend and hold harmless 24/7 and its
+affiliates (including the Subsidiary and the Surviving Corporation), promptly
+upon demand at any time and from time to time, against any and all losses,
+liabilities, claims, actions, damages and expenses (including without
+limitation, reasonable attorneys' fees and disbursements) (collectively,
+"Losses"), arising out of or in connection with any of the following: (i) any
+misrepresentation or breach of any warranty made by the Company or the
+Stockholders in any of the Company Documents; provided, however, that with
+respect to the representations and warranties in 2.5(d), each Stockholder shall
+be solely and entirely responsible for such misrepresentations or breaches that
+relate to such Stockholder's ownership of his or its Shares as set forth in the
+Ownership Table; (ii) any breach or nonfulfillment of any covenant or agreement
+made by the Company or the Stockholders in any of the Company Documents; or
+(iii) the claims of any broker or finder engaged by the Company other than
+Prudential Securities and Erland & Company, Inc.
+
+     9.2    Indemnification by 24/7. 24/7 shall indemnify, defend and hold
+harmless the Stockholders and Sabela, promptly upon demand at any time and from
+time to time, against any and all Losses arising out of or in connection with
+any of the following: (i) any misrepresentation or breach of any warranty made
+by 24/7 or the Subsidiary in this Agreement; (ii) any breach or nonfulfillment
+of any covenant or agreement made by 24/7 or the Subsidiary in this Agreement;
+or (iii) the claims of any broker or finder engaged by 24/7 or the Subsidiary.
+
+                                    ARTICLE X
+
+                 FURTHER PROVISIONS REGARDING INDEMNIFICATION
+
+     10.1   Survival. All representations and warranties made by the Company or
+the Stockholders in the Company Documents or by 24/7 or the Subsidiary in this
+Agreement shall survive the Closing until April 30, 2001, notwithstanding any
+examination or investigation made by or for any party.
+
+
+                                       35
+
+<PAGE>
+
+
+     10.2   Limitations.  Notwithstanding the foregoing,
+
+            (a)    The indemnification in Sections 9.1 and 9.2, as the case
+may be, shall be the exclusive remedy of the Stockholders, Sabela and of 24/7
+and its affiliates with respect to claims for Losses;
+
+            (b)    The indemnification provided for in Section 9.1(i) or 9.2(i)
+above shall not be required unless and until, at the time of any such
+determination, the total amount of Losses otherwise subject to indemnification
+under such section exceeds $500,000, in which event the indemnified party or
+parties will be entitled to indemnification for the full amount of their Losses;
+
+            (c)    The total amount of indemnification provided by the
+Stockholders pursuant to Section 9.1(i) shall in no event exceed an aggregate
+amount equal to $15,100,000;
+
+            (d)    Neither any Stockholder of the Company, on the one hand,
+nor 24/7 or any of its affiliates, on the other, shall be entitled to
+indemnification for Losses arising out of matters referred to in Section 9.1(i)
+or 9.2(i), as applicable, unless it shall have given written notice to the
+indemnifying party, setting forth its claim for indemnification in reasonable
+detail, within the period from the Closing Date until April 30, 2001;
+
+            (e)    An indemnified party shall promptly give written notice to
+the indemnifying party after the indemnified party has knowledge that any legal
+proceeding has been instituted or any claim has been asserted in respect of
+which indemnification may be sought under the provisions of Sections 9.1 or 9.2.
+If the indemnifying party, within 30 days after the indemnified party has given
+such notice (or within such shorter period of time as an answer or other
+responsive motion may be required), shall have acknowledged in writing his or
+its obligation to indemnify, then the indemnifying party shall have the right to
+control the defense of such claim or proceeding, and the indemnifying party
+shall not settle or compromise such claim or proceeding without the written
+consent of the indemnified party. The indemnified party may in any event
+participate in any such defense with his or its own counsel and at his or its
+own expense; and
+
+            (f)    The indemnified party shall be kept fully informed by the
+indemnifying party of such action, suit or proceeding at all stages thereof,
+whether or not he or it is represented by counsel. The indemnifying party shall,
+at the indemnifying party's expense, make available to the indemnified party and
+its attorneys and accountants all books and records of the indemnifying party
+relating to such action, suit or proceeding, and the parties hereto agree to
+render to each other such assistance as they may reasonably require of each
+other in order to ensure the proper and adequate defense of any such action,
+suit or proceeding.
+
+     10.3   Exclusive Remedy. In accordance with the provisions of the Escrow
+Indemnity Agreement, 24/7 shall be entitled, from time to time, to receive from
+the Escrow Agent the number of shares of 24/7 Common Stock having a value equal
+to the Losses of 24/7 as
+
+
+
+                                       36
+
+<PAGE>
+
+
+
+to which 24/7 is entitled to be indemnified pursuant to 9.1 above, subject to
+the provisions of Section 10.2(c). For purposes of this Section 10.3 and the
+Escrow Agreement, the value of 24/7 Common Stock to be delivered to cover Losses
+shall be the average of the closing prices of the 24/7 Common Stock on the five
+trading days preceding the delivery of the shares to 24/7 in accordance with the
+provisions of the Escrow Agreement. The right to receive such shares in
+accordance with the provisions of this Article X shall be 24/7's sole remedy for
+Losses that it is entitled to recover under Section 9.1.
+
+     10.4   Delivery of Notice. 24/7 shall deliver such written notices to such
+parties and at such times as required by the provisions of the Escrow Agreement,
+and the releases of shares provided for in Sections 9.1 or 9.3 shall be governed
+by the provisions of the Escrow Agreement. 24/7 and the Company agree to
+promptly deliver a written notice to the Stockholders upon any determination
+that a claim for Losses under Section 9.1 or 9.2 is reasonably likely to exist.
+
+     10.5   Indemnification of Directors and Officers of the Company. 24/7
+(A) will not take or knowingly permit to be taken any action to alter or impair
+any exculpatory or indemnification provisions now existing in the Charter or
+Bylaws of the Company for the benefit of any individual who served as officer of
+the Company at any time prior to the Effective Time, and (B) shall cause the
+Surviving Corporation to honor and fulfill such provisions until the date which
+is two years from the Effective Time; provided, however, in the event any claim
+is commenced within such two-year period, such indemnification provisions shall
+continue in effect until the final disposition thereof.
+
+
+                                   ARTICLE XI
+
+                                  MISCELLANEOUS
+
+     11.1   Notices. All notices or other communications in connection with this
+Agreement shall be in writing and shall be considered given when personally
+delivered or three days after when mailed by registered or certified mail,
+postage prepaid, return receipt requested, or by overnight courier as follows:
+
+     If to the Company or the Stockholders:
+
+                          Sabela Media, Inc.
+                          73 Spring Street, Suite 205
+                          New York, NY 10012
+                          Attn: James Green
+
+
+
+                                       37
+
+<PAGE>
+
+     with a copy to:
+
+                          Brobeck Phleger & Harrison LLP
+                          550 South Hope Street
+                          Los Angeles, CA 90071-2604
+                          Attn: Kenneth R. Bender, Esq.
+
+     If to 24/7 or the Subsidiary:
+
+                          24/7 Media, Inc.
+                          1250 Broadway, 28th Floor
+                          New York, NY 10001
+                          Attn: General Counsel
+
+     with a copy to:
+
+                          Proskauer Rose LLP
+                          1585 Broadway
+                          New York, NY  10036
+                          Attn:  Ronald R. Papa, Esq.
+
+Any party may send any notice, request, demand, claim or other communication
+hereunder to the intended recipient at the address set forth above using any
+other means (including personal delivery, expedited courier, messenger service,
+telecopy, telex, ordinary mail or electronic mail), but no such notice, request,
+demand, claim or other communication shall be deemed to have been duly given
+unless and until it actually is received by the intended recipient. Any party
+may change the address to which notices, requests, demands, claims and other
+communications hereunder are to be delivered by giving the other party notice in
+the manner set forth in this Section 11.1.
+
+     11.2   Termination. This Agreement shall terminate if the Merger shall
+have not been declared effective and consummated by March 31, 2000.
+
+     11.3   Entire Agreement. This Agreement (which includes the schedules and
+exhibits hereto) sets forth the parties' final and entire agreement with respect
+to its subject matter and supersedes any and all prior and contemporaneous
+understandings, representations, warranties and agreements (whether oral or
+written) with respect to the subject matter herein. This Agreement can be
+amended, supplemented or changed, and any provision hereof can be waived, only
+by a written instrument making specific reference to this Agreement signed by
+the party against whom enforcement of any such amendment, supplement, change or
+waiver is sought.
+
+     11.4   Successors. This Agreement shall be binding upon and shall inure to
+the benefit of the parties hereto and their respective heirs, executors,
+administrators, personal
+
+
+                                       38
+
+<PAGE>
+
+
+representatives, successors and assigns; provided, however, that neither this
+Agreement nor any right or obligation hereunder may be assigned or transferred,
+except that 24/7 or the Subsidiary may assign this Agreement and its rights
+hereunder to any direct or indirect wholly-owned subsidiary of 24/7.
+
+     11.5   Paragraph Headings. The paragraph and section headings in this
+Agreement are for reference purposes only and shall not affect in any way the
+meaning or interpretation of this Agreement.
+
+     11.6   Other Discussions. Unless this Agreement shall have been terminated,
+the Company (and any representatives of the Company) shall not, directly or
+indirectly, initiate, solicit, encourage, consider, entertain or otherwise
+consider any other offers for or inquiries about, or hold discussions with any
+person regarding, the acquisition of any assets or capital stock of the Company.
+The Company (and any representatives of the Company) will not, directly or
+indirectly, engage in any negotiations concerning, provide any confidential
+information or data to, or have any discussions with, any person relating to the
+acquisition of any assets or capital stock of the Company, whether initiated
+before or after this Agreement. The Company (and any representatives of the
+Company) will immediately cease and cause to be terminated any existing
+activities, discussions or negotiations with any parties conducted heretofore
+with respect to the acquisition of any assets or capital stock of the Company.
+The Company will notify 24/7 immediately of any inquiries or proposals received
+by the Company and the name of such person and the material terms and conditions
+of any proposals or offers.
+
+     11.7   Fees and Expenses. Each party hereto will pay its own fees and
+expenses, including, without limitation, legal, accounting and other
+professional fees and expenses, incurred in connection with the execution,
+delivery and performance of this Agreement, whether or not the Merger is
+consummated.
+
+     11.8   Severability. If any provision of this Agreement shall be held by
+any court of competent jurisdiction to be illegal, invalid or unenforceable,
+such provision shall be construed and enforced as if it had been more narrowly
+drawn so as not to be illegal, invalid or unenforceable, and such illegality,
+invalidity or unenforceability shall have no effect upon and shall not impair
+the enforceability of any other provision of this Agreement.
+
+     11.9   Governing Law and Consent to Jurisdiction. This Agreement shall be
+governed by and construed and interpreted in accordance with the internal laws
+of the State of New York. The state courts of the State of New York in New York
+County and, if the jurisdictional prerequisites exist at the time, the United
+States District Court for the Southern District of New York, shall have sole and
+exclusive jurisdiction to hear and determine any dispute or controversy arising
+under or concerning this Agreement. In any action or proceeding concerning such
+dispute or controversy, the parties consent to such jurisdiction and waive
+personal service of any summons, complaint or other process; a summons or
+complaint in any such action or proceeding may be served by mail in accordance
+with Section 11.1.
+
+
+                                       39
+<PAGE>
+
+
+     11.10  Counterparts. This Agreement may be executed by facsimile and in one
+or more counterparts, each of which shall be deemed an original, but all of
+which taken together shall constitute one and the same instrument.
+
+     11.11  Definition of Knowledge. As used herein, the words "knowledge",
+"knowledge" or "known" shall, (i) with respect to the Company or Company
+management, mean the actual knowledge of the executive officers of the Company,
+(ii) with respect to 24/7 or 24/7 management, mean the actual knowledge of the
+executive officers of 24/7, and (iii) with respect to the Subsidiary or the
+Subsidiary management, mean the actual knowledge of the corporate executive
+officers of 24/7 or the Subsidiary.
+
+     11.12 No Third-Party Beneficiaries. This Agreement shall not confer any
+rights or remedies upon any person or entity other than the parties and their
+respective successors and permitted assigns; provided, however, that the
+provisions in Sections 9.1 and 9.2 above concerning indemnification are intended
+for the benefit of the individuals specified therein and their respective legal
+representatives.
+
+
+                            [Signature pages follow]
+
+
+                                       40
+
+<PAGE>
+
+
+                     [SIGNATURE PAGE TO MERGER AGREEMENT]
+
+     IN WITNESS WHEREOF, each of the parties has caused this Merger Agreement to
+be executed by a duly authorized officer as of the day and year first written
+above.
+
+
+SABELA MEDIA, INC.                          24/7 MEDIA, INC.
+
+
+By: /s/ James Green                         By: /s/ David J. Moore
+    ---------------                             --------------------
+      Name:  James Green                          Name:  David J. Moore
+      Title: President and Chief                  Title: President and Chief
+               Executive Officer                           Executive Officer
+
+
+STOCKHOLDERS:                               KILLER-APP HOLDING CORP.
+
+
+By: /s/ James Green                         By: /s/ David J. More
+    ---------------                             -------------------
+      Name:  James Green                          Name:  David J. Moore
+                                                  Title: President and Chief
+
+
+FRESHWATER CONSULTING LTD.
+
+
+By: /s/ David Turner
+    ----------------
+      Name: David Turner
+
+
+GALMOS HOLDINGS LTD.
+
+
+By: /s/ Gour Lentell
+    ----------------
+      Name: Gour Lentell
+
+
+
+                                       41
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>3
+<TEXT>
+
+                                                                    EXHIBIT 99.1
+
+
+Contacts:   Mara Sipzener                 Meg Brossy
+            Connors Communications        Chief Marketing Officer, 24/7 Media
+                                          212-807-7500      212-231-7104
+            mara@connors.com              mbrossy@247media.com
+
+
+
+         24/7 Media Seizes Technology Leadership in Global Ad Serving
+                      via Acquisitions of IMAKE and Sabela
+
+
+      NEW YORK,  January 10, 2000 - 24/7 Media, Inc. (NASDAQ:  TFSM), one of the
+      largest global  Internet media and technology  companies,  today announced
+      that it has acquired IMAKE  Software and Services,  Inc. and Sabela Media,
+      Inc., through separate stock-for-stock transactions. The combined value of
+      these deals is approximately $150 million.
+
+      "With these two  acquisitions,  24/7 Media  instantly  brings together the
+      most  extraordinary  collection of ad serving technology and talent in the
+      world," said David J. Moore,  Chief Executive  Officer of 24/7 Media, Inc.
+      "This combination gives us a robust  technology  infrastructure  that will
+      enable us to meet the  enormous  worldwide  demand  for  better ad serving
+      technology,  accelerate the recently commenced  deployment of 24/7 Connect
+      across the 24/7 Network,  and spearhead our  leadership of the  industry's
+      expansion into broadband ad serving."
+
+      IMAKE is a leading  provider of technology  products that  facilitate  the
+      convergence of Internet  technologies  with broadband  video  programming.
+      IMAKE's   flagship   e.merge(TM)   product  offers  a  fully   integrated,
+      customizable suite of business  applications  designed to manage marketing
+      campaigns  across  multiple forms of electronic  media.  E.merge  provides
+      real-time  targeted  marketing,  complete back office support services and
+      other  applications  that  facilitate the  integration of broadband  video
+      programming  with a  variety  of  Internet-enabled  services.  IMAKE  also
+      provides  system  integration  services  and  played  a key  role  in  the
+      development  of 24/7  Connect,  24/7  Media's  next  generation  online ad
+      serving and  management  system.  IMAKE's  current  customers  include the
+      americast  consortium (The Walt Disney Corporation,  GTE, Ameritech,  Bell
+      South and Southern New England  Telecommunications),  Bell  Atlantic,  MCI
+      Worldcom, Motorola and Associated Press.
+
+      The  integration  of 24/7  Connect with IMAKE's  e.merge  technology  will
+      enable 24/7 Media to deliver campaigns across Web sites, email, electronic
+      programming  guides,   wireless,  set  top  boxes  and  other  information
+      appliances via one interface.  The IMAKE acquisition  extends 24/7 Media's
+      customer base to telecommunication companies,  Internet service providers,
+      cable service operators and digital entertainment content providers.  24/7
+      Media's  product  offerings  will enable Web publisher  clients to develop
+      enhanced broadband and wireless content, and advertising capabilities.
+
+      "By  joining   forces   with  24/7  Media  and  Sabela,   we  can  achieve
+      cross-platform  dominance  of the  global ad  serving  market,"  said Mark
+      Schaszberger,  Chief  Executive  Officer of IMAKE  Software and  Services.
+      "Furthermore,  clients  of IMAKE  will  benefit  greatly  when  e.merge is
+      enabled  with 24/7  Connect's  premier  real-time  profiling  and targeted
+      advertising,  producing  significant new revenue opportunities for e.merge
+      customers."
+
+
+                                       35
+
+<PAGE>
+
+
+
+      Sabela is a global ad serving, tracking and analysis company with products
+      for online  advertisers  and Web  publishers.  As  Australia's  undisputed
+      leading  provider  of ad  serving  services,  Sabela  has  recently  begun
+      aggressive expansion worldwide,  starting with the United States, Far East
+      and European  markets.  Sabela's  sophisticated,  real-time user profiling
+      technology  uses  unique  filtering  and  analysis  tools to allow  online
+      advertisers  to  match  their  messages  with  key  audiences  on  a  true
+      one-to-one  basis.   Sabela's  adaptive   targeting   technology   enables
+      advertisers  to react  to  specific  changes  in a  user's  profile  on an
+      instantaneous  basis.  Sabela Media currently  serves  top-tier  worldwide
+      customers that include Western Initiative Media, House of Blues,  OzEmail,
+      IDG Communications and TMP Worldwide.
+
+      "We have long admired 24/7 Media's vision, and our engineers are extremely
+      impressed with 24/7 Connect," said James Green, Chief Executive Officer of
+      Sabela. "Our combination with 24/7 Media dramatically enhances our ability
+      to compete in the  Internet  ad serving  marketplace.  We look  forward to
+      collaborating  with 24/7 Media to fully launch 24/7 Connect and to combine
+      the best  aspects  of both  technologies  into a single  global ad serving
+      system that will far surpass anything in the marketplace today."
+
+      IMAKE and Sabela join 24/7  Media's  technology  group and its  management
+      team will become an essential part of 24/7 Media's  technology  staff, led
+      by Ron Johnson,  Chief Information  Officer.  24/7 Media's technology team
+      now consists of 145  engineers  and  programmers  coupled  with  technical
+      support staff in 8 locations worldwide. 24/7 Media will leverage IMAKE and
+      Sabela's  technology  teams to support the global  rollout of 24/7 Connect
+      and  to  accelerate  the  deployment  of  24/7  Connect  as a  third-party
+      technology solution.
+
+      About 24/7 Media, Inc.
+
+      Reaching nearly 60% of all online users in the U.S.,  24/7 Media,  Inc. is
+      one of the largest global Internet media and technology companies. Through
+      its global online  advertising and direct marketing  networks,  24/7 Media
+      provides a full suite of online  media  services  to  advertisers  and Web
+      publishers.  Through its flagship ad network,  24/7 Media  represents more
+      than 2.5 billion ad  impressions  per month on more than 400  high-profile
+      sites  globally.  24/7 Mail,  the worlds largest  permission  based opt-in
+      email  database,  consists of 15.5  million  profiles  that can be used to
+      deliver targeted online banner and email campaigns. 24/7 Connect is a next
+      generation  online ad serving and  management  system.  Based in New York,
+      24/7  Media,  Inc.  has  offices  in 42 cities in 25  countries.  For more
+      information, please visit www.247media.com.
+
+
+
+
+
+
+
+                                       36
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
