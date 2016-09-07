@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 from bs4 import BeautifulSoup
 from bs4.element import NavigableString
+from bs4.element import Tag
 
 class Parser:
     def __init__(self, html_file):
@@ -8,5 +9,10 @@ class Parser:
 
     def text_gen(self):
         for item in self.soup.recursiveChildGenerator():
-            if type(item) == NavigableString:
-                yield item.string.encode("utf-8", "ignore")
+            if item.string != None:
+
+                s = item.string.encode("utf-8", "ignore")
+
+                #Many contracts have lines that are simply one whitespace character, hope to modify to include empty lines
+                if s != " ":
+                    yield item.string.encode("utf-8", "ignore")

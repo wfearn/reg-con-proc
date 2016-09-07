@@ -25,7 +25,8 @@ section_match = re.compile(r'((?:\A\Section\s\d+\.[\d]+)|(?:\A[\d]+\.[\d]+\s))',
         flags=re.IGNORECASE)
 
 end_match = re.compile(r'(\bIN\b\s\bWITNESS\b\s\bWHEREOF\b)')
-beginning_of_agreement = re.compile(r'((?:\AAgreement\sand\sPlan\sof\sMerger))')
+beginning_of_agreement =
+re.compile(r'((?:\AAgreement\sand\sPlan\sof\sMerger)|(?:\AAcquisition\sAgreement))|(?:\APlan\sof\sReorganization)|(?:\AStock\sPurchase\sAgreement))', flags=re.IGNORECASE)
 
 def html_file_gen():
     os.chdir("/local/wfearn/Documents/NLPLab/lab_scripts/WebCrawler/data_dump/")
