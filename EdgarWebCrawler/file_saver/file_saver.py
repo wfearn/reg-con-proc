@@ -2,7 +2,7 @@ import os
 
 DEFAULT_PATH = '/local/wfearn/Documents/NLPLab/edgar_data/8k_forms/{}/{}/master.txt'
 
-BASE_8K_PATH = '/local/wfearn/Documents/NLPLab/lab_scripts/reg-con-proc/EdgarWebCrawler/edgar_data/8k_forms/{}/QTR{}/{}'
+BASE_8K_PATH = '/net/perplexity/wfearn/Documents/NLPLab/lab_scripts/reg-con-proc/EdgarWebCrawler/edgar_data/8k_forms/{}/QTR{}/{}'
 
 class FileSaver:
     def save_files(self, files):
