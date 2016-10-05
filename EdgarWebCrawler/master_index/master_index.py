@@ -46,6 +46,7 @@ class MasterIndex:
         for i in range(index, len(self.master_index)):
 
             self.current_index = i
+            print ("\nYielding master index file %s out of %s" % (i, len(self.master_index)))
 
             yield self.master_index[i]
 
